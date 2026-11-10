@@ -1,0 +1,4783 @@
+{
+  "schema": 1,
+  "templates": [
+    {
+      "schema": 2,
+      "id": "auto_f3e3264a0a5a288c",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            -1.05,
+            16.05,
+            -4.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            35.05,
+            -3.075
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.325,
+            34.55,
+            -3.075
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.325,
+            34.55,
+            -3.075
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.35,
+            35.05,
+            -3.0875
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.2875,
+            35.05,
+            -3.0875
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            35.85,
+            -3.2
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            35.85,
+            -3.2
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            0,
+            36,
+            -3
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0,
+        "closedLidScale": 0,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.5,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_68e4438af85b3abc",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            34.075,
+            -0.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            34.775,
+            -0.3
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.325,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.325,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0,
+        "closedLidScale": 0,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": 0,
+        "smileBrowDrop": 0,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_9ef2be75370e8c54",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            34.075,
+            -0.5
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            34.775,
+            -0.3
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.325,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.325,
+            33.075,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            34.875,
+            -3.625
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            34.875,
+            -3.625
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            2.875,
+            34.875,
+            -3.625
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0,
+        "closedLidScale": 0,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": 0,
+        "smileBrowDrop": 0,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_97b0b1362ab247c3",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            32,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            31.7,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.375,
+            31.7,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.375,
+            31.7,
+            -3.525
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.25,
+            32.2,
+            -3.05
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.25,
+            32.2,
+            -3.05
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            32.85,
+            -3.425
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            32.85,
+            -3.425
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0,
+        "closedLidScale": 0,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.5,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_0f094c920db17343",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            33.7,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            33.5,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            33.2,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            33.2,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.325,
+            33.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.325,
+            33.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            34.4,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_e991d1e394dd0527",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            33.7,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            33.5,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            33.2,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            33.2,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.325,
+            33.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.325,
+            33.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            34.4,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "mouth": {
+          "name": "Mouth",
+          "pivot": [
+            0,
+            32.05,
+            -2
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "expression": {
+          "name": "Expression",
+          "pivot": [
+            0,
+            32.05,
+            -2
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "closedMouth": {
+          "name": "Mouth_chill",
+          "pivot": [
+            0.125,
+            32.25,
+            -2.5125
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "openMouth": {
+          "name": "Mouth_surprise",
+          "pivot": [
+            0.125,
+            32.75,
+            -2.5125
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "smileMouth": {
+          "name": "Mouth_smile2",
+          "pivot": [
+            0,
+            32.275,
+            -3.5125
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "smileOpenMouth": {
+          "name": "Mouth_smile",
+          "pivot": [
+            0,
+            32.225,
+            -2.5125
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": -1
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_be64236260b64d3f",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            34.2,
+            0.4
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            34,
+            0.4
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            33.7,
+            -2.625
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            33.7,
+            -2.625
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.325,
+            34.2,
+            -2.625
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.325,
+            34.2,
+            -2.625
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            35.05,
+            -2.925
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            35.05,
+            -2.925
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            34.9,
+            0.4
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_507aa32c51c5636a",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0.70064,
+            30.16648,
+            1.48042
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.70064,
+            29.98648,
+            1.48042
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.95064,
+            29.71648,
+            -1.24208
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -1.54936,
+            29.71648,
+            -1.24208
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "ysmGlowLeftEyelidBase",
+          "pivot": [
+            2.79314,
+            30.16648,
+            -1.24208
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "ysmGlowRightEyelidBase",
+          "pivot": [
+            -1.39186,
+            30.16648,
+            -1.24208
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            3.28814,
+            30.93148,
+            -1.51208
+          ],
+          "rotation": [
+            0,
+            0,
+            -2.5
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -1.88686,
+            30.93148,
+            -1.51208
+          ],
+          "rotation": [
+            0,
+            0,
+            2.5
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0.70064,
+            30.79648,
+            1.48042
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_cb097de3a5acc30d",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            33.7,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            33.7,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            32.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            32.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.325,
+            32.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.325,
+            32.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            34.4,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0,
+        "closedLidScale": 0,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.5,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_5704b1458b8c0168",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            30,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            30.25,
+            -3.05
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.125,
+            29.275,
+            -3.5725
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.125,
+            29.275,
+            -3.5725
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            1.975,
+            29.775,
+            -3.5875
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -1.975,
+            29.775,
+            -3.5875
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.31235,
+            30.33718,
+            -3.68084
+          ],
+          "rotation": [
+            0,
+            0,
+            -16.75
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.31235,
+            30.33718,
+            -3.68084
+          ],
+          "rotation": [
+            0,
+            0,
+            16.75
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            -3.22864,
+            31.39562,
+            -3.7975
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0,
+        "closedLidScale": 0,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1,
+        "smileBrowDrop": -1,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_baa3dbe106fa0350",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            24,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            24,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.4,
+            24,
+            -1.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.4,
+            24,
+            -1.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.225,
+            24,
+            -1.075
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.225,
+            24,
+            -1.075
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.85,
+            25.275,
+            -1.6125
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.85,
+            25.275,
+            -1.6125
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            25,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_df4b150713f09a5a",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            35.28531,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            35.10931,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.07512,
+            34.84531,
+            -2.662
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.05559,
+            34.84531,
+            -2.662
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            1.92275,
+            35.28531,
+            -2.662
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -1.90322,
+            35.28531,
+            -2.662
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.40162,
+            36.03331,
+            -2.926
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.38209,
+            36.03331,
+            -2.926
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            35.90131,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_88bc0910a8b3dbba",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            -0.12288,
+            33.5803,
+            0.12113
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            -0.12288,
+            33.3803,
+            0.12113
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.62288,
+            33.0803,
+            -2.90387
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.62288,
+            33.0803,
+            -2.90387
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.44788,
+            33.5803,
+            -2.90387
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.44788,
+            33.5803,
+            -2.90387
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.75212,
+            34.4303,
+            -3.10387
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.99788,
+            34.4303,
+            -3.10387
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            -0.12288,
+            34.2803,
+            0.12113
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_d1c08b6f776bb6d5",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            33.7,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            33.5,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            33.2,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            33.2,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.325,
+            33.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.325,
+            33.7,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            34.55,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            34.4,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0,
+        "closedLidScale": 0,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.5,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_11267332a3a8e6a4",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            33.4,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            33.2,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            32.9,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            32.9,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.325,
+            33.4,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.325,
+            33.4,
+            -3.025
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            34.25,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            34.25,
+            -3.325
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            34.1,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "id": "auto_41816264001f995a",
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0,
+            33.25,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0,
+            33.06,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.375,
+            32.775,
+            -2.87375
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.375,
+            32.775,
+            -2.87375
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.20875,
+            33.25,
+            -2.87375
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.20875,
+            33.25,
+            -2.87375
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.73125,
+            34.0575,
+            -3.15875
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.73125,
+            34.0575,
+            -3.15875
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        },
+        "brows": {
+          "name": "EyeBrow",
+          "pivot": [
+            0,
+            33.915,
+            0
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "smileEyes": [
+          "笑い",
+          "なごみ"
+        ],
+        "winkLeft": [
+          "ウィンク",
+          "ウィンク２"
+        ],
+        "winkRight": [
+          "ウィンク右",
+          "ｳｨﾝｸ２右"
+        ],
+        "mouthSmile": [
+          "にやり"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.55,
+        "closedLidScale": 0.1,
+        "blinkLift": 0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5,
+        "smileBrowDrop": -1.2,
+        "mouthForward": 0
+      }
+    },
+    {
+      "schema": 2,
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0.0,
+            40.74866,
+            0.42751
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.0,
+            41.44866,
+            0.62751
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.325,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.325,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            41.54866,
+            -2.69749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            41.54866,
+            -2.69749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            2.875,
+            41.54866,
+            -2.69749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBlinkBrow": {
+          "name": "LeftEyebrow2",
+          "pivot": [
+            2.86238,
+            41.29609,
+            -2.86172
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "winkLeft": [
+          "ウィンク"
+        ],
+        "winkRight": [
+          "ウィンク右"
+        ],
+        "smileEyes": [
+          "笑い"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.0,
+        "closedLidScale": 0,
+        "blinkLift": 0.0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": 0.0,
+        "smileBrowDrop": 0.0,
+        "extraBlinkBrowDrop": -1.500000021984255,
+        "mouthForward": 0
+      },
+      "id": "custom_face_d6c6242372182083"
+    },
+    {
+      "schema": 2,
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0.0,
+            40.74866,
+            0.42751
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.0,
+            41.44866,
+            0.62751
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.325,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.325,
+            39.74866,
+            -2.59749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            41.54866,
+            -2.69749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            41.54866,
+            -2.69749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            2.875,
+            41.54866,
+            -2.69749
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBlinkBrow": {
+          "name": "LeftEyebrow2",
+          "pivot": [
+            2.86238,
+            41.29609,
+            -2.86172
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "winkLeft": [
+          "ウィンク"
+        ],
+        "winkRight": [
+          "ウィンク右"
+        ],
+        "smileEyes": [
+          "笑い"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.0,
+        "closedLidScale": 0,
+        "blinkLift": 0.0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": 0.0,
+        "smileBrowDrop": 0.0,
+        "extraBlinkBrowDrop": -1.4999999956690535,
+        "mouthForward": 0
+      },
+      "id": "custom_face_e6113d30a5f89466"
+    },
+    {
+      "schema": 2,
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0.0,
+            43.85539,
+            -0.5
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.0,
+            44.55539,
+            -0.3
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            42.85539,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            42.85539,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.325,
+            42.85539,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.325,
+            42.85539,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            44.40539,
+            -3.625
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            44.40539,
+            -3.625
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            2.875,
+            44.40539,
+            -3.625
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBlinkBrow": {
+          "name": "LeftEyebrow2",
+          "pivot": [
+            2.86238,
+            44.15282,
+            -3.78923
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "winkLeft": [
+          "ウィンク"
+        ],
+        "winkRight": [
+          "ウィンク右"
+        ],
+        "smileEyes": [
+          "笑い"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.0,
+        "closedLidScale": 0,
+        "blinkLift": 0.0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": 0.0,
+        "smileBrowDrop": 0.0,
+        "extraBlinkBrowDrop": -1.2814899577498757,
+        "mouthForward": 0
+      },
+      "id": "custom_face_bac8193ae894d4fe"
+    },
+    {
+      "schema": 2,
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            2.71051,
+            38.30609,
+            -2.175
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.0,
+            36.0,
+            0.0
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            4.075,
+            8.725,
+            1.225
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -4.075,
+            8.725,
+            1.225
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.2125,
+            34.55,
+            -1.825
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.2125,
+            34.55,
+            -1.825
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.375,
+            36.625,
+            -2.5
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.375,
+            36.625,
+            -2.5
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            0.0,
+            36.4,
+            0.0
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBlinkBrow": {
+          "name": "LeftEyebrow3",
+          "pivot": [
+            2.125,
+            36.375,
+            -2.5
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            -12.500000063252974
+          ]
+        },
+        "rightBlinkBrow": {
+          "name": "RightEyebrow3",
+          "pivot": [
+            -2.125,
+            36.375,
+            -2.5
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            12.500000063252974
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "winkLeft": [
+          "ウィンク"
+        ],
+        "winkRight": [
+          "ウィンク右"
+        ],
+        "smileEyes": [
+          "笑い"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 27.275,
+        "closedLidScale": 0,
+        "blinkLift": 27.275,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -0.9609908731454669,
+        "smileBrowDrop": -0.9609908731454669,
+        "extraBlinkBrowDrop": -0.9609908731454669,
+        "mouthForward": 0
+      },
+      "id": "custom_face_ee47fb64089e033b"
+    },
+    {
+      "schema": 2,
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0.0,
+            40.09586,
+            -0.02397
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.0,
+            41.75,
+            -0.05
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.1318,
+            37.92259,
+            -3.00545
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.1318,
+            37.92259,
+            -3.00545
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.082,
+            41.97008,
+            -3.09366
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            2.49999992727323
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.082,
+            41.97008,
+            -3.09366
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            -2.49999992727323
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            1.50541,
+            43.29634,
+            -3.40514
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            2.49999992727323
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -1.50541,
+            43.29634,
+            -3.40514
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            -2.49999992727323
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "winkLeft": [
+          "ウィンク"
+        ],
+        "winkRight": [
+          "ウィンク右"
+        ],
+        "smileEyes": [
+          "笑い"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 1.6137049800175092,
+        "closedLidScale": 0.5,
+        "blinkLift": 1.6137049800175092,
+        "closedBlinkScale": 0.5,
+        "blinkBrowDrop": -0.7354106739402839,
+        "smileBrowDrop": -0.7354106739402839,
+        "extraBlinkBrowDrop": 0,
+        "mouthForward": 0
+      },
+      "id": "custom_face_7251c54c20af2766"
+    },
+    {
+      "schema": 2,
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0.0,
+            40.09586,
+            -0.02397
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.0,
+            41.75,
+            -0.05
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.1318,
+            37.92259,
+            -3.00545
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.1318,
+            37.92259,
+            -3.00545
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyelidBase",
+          "pivot": [
+            2.082,
+            41.97008,
+            -3.09366
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            2.49999992727323
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyelidBase",
+          "pivot": [
+            -2.082,
+            41.97008,
+            -3.09366
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            -2.49999992727323
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            1.50541,
+            43.29634,
+            -3.40514
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            2.49999992727323
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -1.50541,
+            43.29634,
+            -3.40514
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            -2.49999992727323
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "winkLeft": [
+          "ウィンク"
+        ],
+        "winkRight": [
+          "ウィンク右"
+        ],
+        "smileEyes": [
+          "笑い"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 1.6137049830709702,
+        "closedLidScale": 0.5,
+        "blinkLift": 1.6137049830709702,
+        "closedBlinkScale": 0.5,
+        "blinkBrowDrop": -0.7237132148417562,
+        "smileBrowDrop": -0.7237132148417562,
+        "extraBlinkBrowDrop": 0,
+        "mouthForward": 0
+      },
+      "id": "custom_face_77f3741698f5c586"
+    },
+    {
+      "schema": 2,
+      "bones": {
+        "eyes": {
+          "name": "Eyes",
+          "pivot": [
+            0.0,
+            40.70945,
+            -0.5
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "lids": {
+          "name": "Eyelid",
+          "pivot": [
+            0.0,
+            40.65945,
+            -0.3
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftLid": {
+          "name": "LeftEyelid",
+          "pivot": [
+            2.5,
+            39.70945,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightLid": {
+          "name": "RightEyelid",
+          "pivot": [
+            -2.5,
+            39.70945,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBase": {
+          "name": "LeftEyesBase",
+          "pivot": [
+            2.325,
+            39.70945,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBase": {
+          "name": "RightEyesBase",
+          "pivot": [
+            -2.325,
+            39.70945,
+            -3.525
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "leftBrow": {
+          "name": "LeftEyebrow",
+          "pivot": [
+            2.875,
+            41.50945,
+            -3.625
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "rightBrow": {
+          "name": "RightEyebrow",
+          "pivot": [
+            -2.875,
+            41.50945,
+            -3.625
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "brows": {
+          "name": "Eyebrow",
+          "pivot": [
+            2.875,
+            41.50945,
+            -3.625
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "channels": {
+        "blink": [
+          "まばたき"
+        ],
+        "winkLeft": [
+          "ウィンク"
+        ],
+        "winkRight": [
+          "ウィンク右"
+        ],
+        "smileEyes": [
+          "笑い"
+        ],
+        "browRaise": [
+          "上"
+        ],
+        "browLower": [
+          "下"
+        ],
+        "browSerious": [
+          "真面目"
+        ],
+        "browSmile": [
+          "にこり"
+        ],
+        "browTroubled": [
+          "困る"
+        ],
+        "browAngry": [
+          "怒り"
+        ]
+      },
+      "calibration": {
+        "lidLift": 0.0,
+        "closedLidScale": 0,
+        "blinkLift": 0.0,
+        "closedBlinkScale": 0,
+        "blinkBrowDrop": -1.5000000137120486,
+        "smileBrowDrop": -1.5000000137120486,
+        "extraBlinkBrowDrop": 0,
+        "mouthForward": 0
+      },
+      "id": "custom_face_6f86bdd473ffe7cb"
+    }
+  ],
+  "sources": [
+    {
+      "source": "YSM 2.6.5 builtin/default",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "avatar": "avatar/gsl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+        },
+        {
+          "name": "端木一动不动",
+          "role": "动画",
+          "avatar": "avatar/dm.png",
+          "comment": "永远都在ing"
+        },
+        {
+          "name": "甜粽子",
+          "role": "动画",
+          "avatar": "avatar/tzz.png",
+          "comment": "(ᗜˬᗜ)"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "材质/模型",
+          "avatar": "avatar/lmg.png",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          },
+          "comment": "8月24号，传奇永不落幕"
+        },
+        {
+          "name": "艾雷克亚",
+          "role": "铁魔法动画",
+          "avatar": "avatar/arekya.jpg",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/480946180"
+          },
+          "comment": "发癫"
+        }
+      ],
+      "templates": [
+        "auto_f3e3264a0a5a288c"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/misc/3_default_boy",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "avatar": "avatar/gsl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+        },
+        {
+          "name": "端木一动不动",
+          "role": "动画",
+          "avatar": "avatar/dm.png",
+          "comment": "永远都在ing"
+        }
+      ],
+      "templates": [
+        "auto_68e4438af85b3abc",
+        "auto_9ef2be75370e8c54"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/misc/4_default_controllers",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "avatar": "avatar/gsl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        }
+      ],
+      "templates": [
+        "auto_97b0b1362ab247c3"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/01_taisho_maid",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "avatar": "avatar/wmdj.jpg",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "OwO"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        },
+        {
+          "name": "哥斯拉（映素团队）",
+          "role": "模型修改",
+          "avatar": "avatar/gsl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+        },
+        {
+          "name": "白帆小喵",
+          "role": "新版材质",
+          "avatar": "avatar/bfxm.jpg",
+          "comment": "一只爱玩mc的小猫咪罢了qwq",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/492836494"
+          }
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "UI 材质/贴图",
+          "avatar": "avatar/lmg.png",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          },
+          "comment": "8月24号，传奇永不落幕"
+        },
+        {
+          "name": "墨染逝羽",
+          "role": "面具模型",
+          "avatar": "avatar/mrsy.png",
+          "comment": "事到如今，先摸鱼吧",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/5718046"
+          }
+        },
+        {
+          "name": "Maks怜悯",
+          "role": "载具模型",
+          "avatar": "avatar/maks.jpg",
+          "comment": "ysm人偶制作中～",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/352177387"
+          }
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型修改",
+          "avatar": "avatar/nico.png",
+          "comment": "最美好的前途，可不要对我冷酷",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "祸御神",
+          "role": "动画修改",
+          "avatar": "avatar/hys.png",
+          "comment": "五十代精神病人",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/164557734"
+          }
+        },
+        {
+          "name": "羊毛",
+          "role": "音效/动画修改",
+          "avatar": "avatar/wool.png",
+          "comment": "喵喵喵喵",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/85335217"
+          }
+        }
+      ],
+      "templates": [
+        "auto_0f094c920db17343",
+        "auto_e991d1e394dd0527"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/02_new_year",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "就叫纸板",
+          "role": "模型",
+          "avatar": "avatar/zb.avif",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/29208164"
+          },
+          "comment": "杂鱼~杂鱼~"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        }
+      ],
+      "templates": [
+        "auto_0f094c920db17343"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/03_astronaut",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "完全冻结",
+          "avatar": "avatars/af.avif",
+          "role": "模型"
+        },
+        {
+          "name": "星屑海螺",
+          "avatar": "avatars/hl.png",
+          "role": "动画"
+        },
+        {
+          "name": "哥斯拉（映素团队）",
+          "avatar": "avatars/gsl.png",
+          "role": "模型修改"
+        },
+        {
+          "name": "祸御神",
+          "avatar": "avatars/hys.png",
+          "role": "GUI 动画"
+        }
+      ],
+      "templates": [
+        "auto_be64236260b64d3f"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/04_kongfu",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "哥斯拉（映素团队）",
+          "role": "模型",
+          "avatar": "avatar/gsl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+        }
+      ],
+      "templates": [
+        "auto_0f094c920db17343",
+        "auto_e991d1e394dd0527"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/05_magical",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "星海境",
+          "role": "模型/动画修改",
+          "avatar": "avatar/xinghai.avif",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          },
+          "comment": "繁星凝望着海洋，海洋拥抱着风帆。"
+        },
+        {
+          "name": "伊蕾娜教代行教皇",
+          "role": "帽子模型",
+          "avatar": "avatar/yll.jpg",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/519088494"
+          },
+          "comment": "OwO"
+        }
+      ],
+      "templates": [
+        "auto_507aa32c51c5636a"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/07_jk",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "伊蕾娜家的咸鱼",
+          "role": "模型",
+          "avatar": "avatar/xy.png",
+          "comment": "幸福往往是摸得透彻，而敬业的心却常常隐藏",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/20682514"
+          }
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型",
+          "avatar": "avatar/nico.png",
+          "comment": "最美好的前途，可不要对我冷酷",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        },
+        {
+          "name": "墨染逝羽",
+          "role": "模型",
+          "avatar": "avatar/mrsy.png",
+          "comment": "事到如今，先摸鱼吧",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/5718046"
+          }
+        }
+      ],
+      "templates": [
+        "auto_cb097de3a5acc30d"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/08_sta",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "avatar": "avatar/gsl.png",
+          "role": "老妈",
+          "comment": "这是我一个赛博 废土世界观的女儿"
+        },
+        {
+          "name": "斯塔",
+          "avatar": "avatar/st.png",
+          "role": "角色",
+          "comment": "哪个天才用冷却液当汽油加？"
+        },
+        {
+          "name": "映素",
+          "avatar": "avatar/ys.png",
+          "role": "团队",
+          "comment": "官方共享模型 参与者 Nona 流风LFly 星屑海螺"
+        }
+      ],
+      "templates": [
+        "auto_5704b1458b8c0168"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/11_salesperson",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "圣起司",
+          "role": "贴图&服装修改",
+          "avatar": "avatar/mr_cheese.avif",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/18095414"
+          },
+          "comment": "暂略"
+        }
+      ],
+      "templates": [
+        "auto_cb097de3a5acc30d"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/12_little",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "柔_荑",
+          "role": "模型",
+          "avatar": "avatar/ry.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/rouyi",
+            "Bilibili": "https://space.bilibili.com/2070073208"
+          },
+          "comment": "纯兴趣，随缘断更"
+        },
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "avatar": "avatar/wmdj.jpg",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "OwO"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "xxx"
+        }
+      ],
+      "templates": [
+        "auto_baa3dbe106fa0350"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/13_matured",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "受不了老师",
+          "role": "修改",
+          "avatar": "avatar/sbl.webp",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/7033128"
+          },
+          "comment": "OwO"
+        }
+      ],
+      "templates": [
+        "auto_df4b150713f09a5a"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/14_momo",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "再来几斤小莫莫",
+          "role": "魔改动画/材质",
+          "comment": "如果你有所热爱的美好的愿望，就大胆去追求它",
+          "avatar": "avatar/zljjxmm.png",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/3493267685509797"
+          }
+        },
+        {
+          "name": "Tex_offcial",
+          "role": "材质",
+          "contact": {
+            "blibli": "https://b23.tv/0angYgR"
+          },
+          "avatar": "avatar/tex.png"
+        }
+      ],
+      "templates": [
+        "auto_88bc0910a8b3dbba"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/16_tactics",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "汽水弹珠Pixel",
+          "role": "二创改模",
+          "avatar": "avatar/qsdz.png",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/504391451"
+          },
+          "comment": "小剧场年更中ing"
+        },
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "avatar": "avatar/wmdj.jpg",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "OwO"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        }
+      ],
+      "templates": [
+        "auto_d1c08b6f776bb6d5"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/18_wedding",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "avatar": "avatar/gsl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型",
+          "avatar": "avatar/nico.png",
+          "comment": "最美好的前途，可不要对我冷酷",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "祸御神",
+          "role": "动画",
+          "avatar": "avatar/hys.png",
+          "comment": "五十代精神病人",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/164557734"
+          }
+        },
+        {
+          "name": "羊毛",
+          "role": "音效/动画/花嫁改",
+          "avatar": "avatar/wool.png",
+          "comment": "喵喵喵喵",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/85335217"
+          }
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "模型",
+          "avatar": "avatar/lmg.png",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          },
+          "comment": "8月24号，传奇永不落幕"
+        }
+      ],
+      "templates": [
+        "auto_11267332a3a8e6a4"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/19_nine_tailed",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "avatar": "avatar/wmdj.jpg",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "OwO"
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "avatar": "avatar/hl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          },
+          "comment": "漂泊于群星之中"
+        },
+        {
+          "name": "哥斯拉（映素团队）",
+          "role": "模型修改",
+          "avatar": "avatar/gsl.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一个MC模型/YSM作者，想法很多，时间很少"
+        },
+        {
+          "name": "白帆小喵",
+          "role": "新版材质",
+          "avatar": "avatar/bfxm.jpg",
+          "comment": "一只爱玩mc的小猫咪罢了qwq",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/492836494"
+          }
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "UI 材质/贴图",
+          "avatar": "avatar/lmg.png",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          },
+          "comment": "8月24号，传奇永不落幕"
+        },
+        {
+          "name": "墨染逝羽",
+          "role": "面具模型",
+          "avatar": "avatar/mrsy.png",
+          "comment": "事到如今，先摸鱼吧",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/5718046"
+          }
+        },
+        {
+          "name": "Maks怜悯",
+          "role": "载具模型",
+          "avatar": "avatar/maks.jpg",
+          "comment": "ysm人偶制作中～",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/352177387"
+          }
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型修改",
+          "avatar": "avatar/nico.png",
+          "comment": "最美好的前途，可不要对我冷酷",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "祸御神",
+          "role": "动画修改",
+          "avatar": "avatar/hys.png",
+          "comment": "五十代精神病人",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/164557734"
+          }
+        },
+        {
+          "name": "羊毛",
+          "role": "音效/动画修改",
+          "avatar": "avatar/wool.png",
+          "comment": "喵喵喵喵",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/85335217"
+          }
+        },
+        {
+          "name": "星海境",
+          "avatar": "avatar/xinghai.png",
+          "role": "模型&动画修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          },
+          "comment": "繁星凝望着海洋，海洋拥抱着风帆"
+        }
+      ],
+      "templates": [
+        "auto_0f094c920db17343",
+        "auto_e991d1e394dd0527"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/20_survivor",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "玫间霂绒",
+          "role": "模型",
+          "avatar": "avatar/mjmr.png",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          },
+          "comment": "一只模型/YSM作者，理想很多但很爱摸鱼"
+        }
+      ],
+      "templates": [
+        "auto_cb097de3a5acc30d"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/21_saint",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "星海境",
+          "avatar": "avatar/xinghai.png",
+          "role": "设计/动画",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          },
+          "comment": "繁星凝望着海洋，海洋拥抱着风帆。"
+        },
+        {
+          "name": "缇可拉",
+          "role": "翅膀模型",
+          "contact": {
+            "Bilibilil": "https://space.bilibili.com/17798027"
+          },
+          "comment": "苯狐可啡缇可拉！",
+          "avatar": "avatar/bh.webp"
+        }
+      ],
+      "templates": [
+        "auto_41816264001f995a"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/22_elf",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "星海境",
+          "avatar": "avatar/xinghai.png",
+          "role": "设计/动画/模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          },
+          "comment": "繁星凝望着海洋，海洋拥抱着风帆。"
+        },
+        {
+          "name": "缇可拉",
+          "avatar": "avatar/bh.webp",
+          "role": "模型/材质",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/326133289"
+          },
+          "comment": "苯狐可啡缇可拉！"
+        }
+      ],
+      "templates": [
+        "auto_0f094c920db17343"
+      ],
+      "changes": "Derived facial joint references and numeric closed poses; original meshes, textures and animation timelines are excluded."
+    }
+  ],
+  "skipped": [
+    {
+      "source": "YSM 2.6.5 builtin/misc/1_alex",
+      "reason": "No consistent numeric native closure for both eyelids"
+    },
+    {
+      "source": "YSM 2.6.5 builtin/misc/2_steve",
+      "reason": "No consistent numeric native closure for both eyelids"
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/06_hanfu",
+      "reason": "No consistent numeric native closure for both eyelids"
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/09_hailuo",
+      "reason": "License outside distributable set",
+      "license": "All Rights Reserved"
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/10_zhiban",
+      "reason": "License outside distributable set",
+      "license": "All Rights Reserved"
+    },
+    {
+      "source": "wine_fox__15_kluonoa",
+      "reason": "Missing main native animation file"
+    },
+    {
+      "source": "YSM 2.6.5 builtin/wine_fox/17_mini",
+      "reason": "License outside distributable set",
+      "license": "All Rights Reserved"
+    }
+  ]
+}

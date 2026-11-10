@@ -1,0 +1,799 @@
+{
+  "schema": 1,
+  "models": [
+    {
+      "id": "default",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "端木一动不动",
+          "role": "动画",
+          "contact": {}
+        },
+        {
+          "name": "甜粽子",
+          "role": "动画",
+          "contact": {}
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "材质/模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          }
+        },
+        {
+          "name": "艾雷克亚",
+          "role": "铁魔法动画",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/480946180"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/default/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "misc/1_alex",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "端木一动不动",
+          "role": "动画",
+          "contact": {}
+        },
+        {
+          "name": "甜粽子",
+          "role": "动画",
+          "contact": {}
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/misc/1_alex/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "misc/2_steve",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "端木一动不动",
+          "role": "动画",
+          "contact": {}
+        },
+        {
+          "name": "甜粽子",
+          "role": "动画",
+          "contact": {}
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/misc/2_steve/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "misc/3_default_boy",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "端木一动不动",
+          "role": "动画",
+          "contact": {}
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/misc/3_default_boy/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "misc/4_default_controllers",
+      "license": "CC 0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/misc/4_default_controllers/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/01_taisho_maid",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "哥斯拉（映素团队）",
+          "role": "模型修改",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "白帆小喵",
+          "role": "新版材质",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/492836494"
+          }
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "UI 材质/贴图",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          }
+        },
+        {
+          "name": "墨染逝羽",
+          "role": "面具模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/5718046"
+          }
+        },
+        {
+          "name": "Maks怜悯",
+          "role": "载具模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/352177387"
+          }
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "祸御神",
+          "role": "动画修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/164557734"
+          }
+        },
+        {
+          "name": "羊毛",
+          "role": "音效/动画修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/85335217"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/01_taisho_maid/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/02_new_year",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "就叫纸板",
+          "role": "模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/29208164"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/02_new_year/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/03_astronaut",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "完全冻结",
+          "role": "模型",
+          "contact": {}
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "contact": {}
+        },
+        {
+          "name": "哥斯拉（映素团队）",
+          "role": "模型修改",
+          "contact": {}
+        },
+        {
+          "name": "祸御神",
+          "role": "GUI 动画",
+          "contact": {}
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/03_astronaut/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/04_kongfu",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "哥斯拉（映素团队）",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/04_kongfu/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/05_magical",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "星海境",
+          "role": "模型/动画修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          }
+        },
+        {
+          "name": "伊蕾娜教代行教皇",
+          "role": "帽子模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/519088494"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/05_magical/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/06_hanfu",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "就叫纸板",
+          "role": "作者",
+          "contact": {
+            "donate": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/29208164"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/06_hanfu/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/07_jk",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "伊蕾娜家的咸鱼",
+          "role": "模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/20682514"
+          }
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "墨染逝羽",
+          "role": "模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/5718046"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/07_jk/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/08_sta",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "老妈",
+          "contact": {}
+        },
+        {
+          "name": "斯塔",
+          "role": "角色",
+          "contact": {}
+        },
+        {
+          "name": "映素",
+          "role": "团队",
+          "contact": {}
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/08_sta/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/11_salesperson",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "圣起司",
+          "role": "贴图&服装修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/18095414"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/11_salesperson/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/12_little",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "柔_荑",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/rouyi",
+            "Bilibili": "https://space.bilibili.com/2070073208"
+          }
+        },
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/12_little/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/13_matured",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "受不了老师",
+          "role": "修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/7033128"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/13_matured/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/14_momo",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "再来几斤小莫莫",
+          "role": "魔改动画/材质",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/3493267685509797"
+          }
+        },
+        {
+          "name": "Tex_offcial",
+          "role": "材质",
+          "contact": {
+            "blibli": "https://b23.tv/0angYgR"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/14_momo/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/15_kluonoa",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "Sangjam",
+          "role": "原设画师",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/474161531"
+          }
+        },
+        {
+          "name": "nona",
+          "role": "模型",
+          "contact": {}
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画/收留者",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "咖啡鱼",
+          "role": "部分动作",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/104972076"
+          }
+        },
+        {
+          "name": "雅音宫羽",
+          "role": "动画",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/44218"
+          }
+        },
+        {
+          "name": "Dumnheint",
+          "role": "优化",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/36644599"
+          }
+        },
+        {
+          "name": "秋风",
+          "role": "动画",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/375227559"
+          }
+        },
+        {
+          "name": "12ssssss",
+          "role": "PBR材质",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/14698522"
+          }
+        },
+        {
+          "name": "Maks怜悯",
+          "role": "车车模型",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/352177387"
+          }
+        },
+        {
+          "name": "TKYHJ",
+          "role": "PBR材质",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/449147184"
+          }
+        },
+        {
+          "name": "自动服务网络",
+          "role": "部分动画",
+          "contact": {}
+        },
+        {
+          "name": "K螺诺亚",
+          "role": "原设",
+          "contact": {
+            "bilibili": "https://space.bilibili.com/3546599305251347"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/15_kluonoa/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/16_tactics",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "汽水弹珠Pixel",
+          "role": "二创改模",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/504391451"
+          }
+        },
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/16_tactics/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/18_wedding",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "哥斯拉",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "祸御神",
+          "role": "动画",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/164557734"
+          }
+        },
+        {
+          "name": "羊毛",
+          "role": "音效/动画/花嫁改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/85335217"
+          }
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/18_wedding/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/19_nine_tailed",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "完美冻结",
+          "role": "模型原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "星屑海螺",
+          "role": "动画原作",
+          "contact": {
+            "Afdian": "https://afdian.com/a/lucia2048",
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "哥斯拉（映素团队）",
+          "role": "模型修改",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        },
+        {
+          "name": "白帆小喵",
+          "role": "新版材质",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/492836494"
+          }
+        },
+        {
+          "name": "蓝玫瑰",
+          "role": "UI 材质/贴图",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/11814817"
+          }
+        },
+        {
+          "name": "墨染逝羽",
+          "role": "面具模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/5718046"
+          }
+        },
+        {
+          "name": "Maks怜悯",
+          "role": "载具模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/352177387"
+          }
+        },
+        {
+          "name": "浅陌菌",
+          "role": "模型修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/14975572"
+          }
+        },
+        {
+          "name": "祸御神",
+          "role": "动画修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/164557734"
+          }
+        },
+        {
+          "name": "羊毛",
+          "role": "音效/动画修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/85335217"
+          }
+        },
+        {
+          "name": "星海境",
+          "role": "模型&动画修改",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/19_nine_tailed/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/20_survivor",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "玫间霂绒",
+          "role": "模型",
+          "contact": {
+            "Afdian": "https://afdian.com/a/6TGESILA",
+            "Bilibili": "https://space.bilibili.com/17798027"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/20_survivor/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/21_saint",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "星海境",
+          "role": "设计/动画",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          }
+        },
+        {
+          "name": "缇可拉",
+          "role": "翅膀模型",
+          "contact": {
+            "Bilibilil": "https://space.bilibili.com/17798027"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/21_saint/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    },
+    {
+      "id": "wine_fox/22_elf",
+      "license": "CC BY-NC-SA 4.0",
+      "authors": [
+        {
+          "name": "星海境",
+          "role": "设计/动画/模型",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/66634439"
+          }
+        },
+        {
+          "name": "缇可拉",
+          "role": "模型/材质",
+          "contact": {
+            "Bilibili": "https://space.bilibili.com/326133289"
+          }
+        }
+      ],
+      "source": "YSM 2.6.5 builtin/wine_fox/22_elf/models/main.json",
+      "changes": "Derived joint metadata, body family grouping, attachment bounds and collision samples; no mesh faces, textures or native animations."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "width": 1536,
+  "height": 1440,
+  "entries": [
+    {
+      "name": "↑↓",
+      "width": 34,
+      "index": 0
+    },
+    {
+      "name": "←→",
+      "width": 34,
+      "index": 18
+    },
+    {
+      "name": "Q / E",
+      "width": 34,
+      "index": 36
+    },
+    {
+      "name": "Enter",
+      "width": 44,
+      "index": 54
+    },
+    {
+      "name": "Esc",
+      "width": 32,
+      "index": 72
+    },
+    {
+      "name": "S",
+      "width": 24,
+      "index": 90
+    },
+    {
+      "name": "R",
+      "width": 24,
+      "index": 108
+    },
+    {
+      "name": "G",
+      "width": 24,
+      "index": 126
+    },
+    {
+      "name": "H",
+      "width": 24,
+      "index": 144
+    },
+    {
+      "name": "P",
+      "width": 24,
+      "index": 162
+    },
+    {
+      "name": "M",
+      "width": 24,
+      "index": 180
+    },
+    {
+      "name": "F1",
+      "width": 28,
+      "index": 198
+    },
+    {
+      "name": "V",
+      "width": 24,
+      "index": 216
+    },
+    {
+      "name": "F5",
+      "width": 28,
+      "index": 234
+    },
+    {
+      "name": "Ctrl",
+      "width": 36,
+      "index": 252
+    },
+    {
+      "name": "F",
+      "width": 24,
+      "index": 270
+    },
+    {
+      "name": "F4",
+      "width": 28,
+      "index": 288
+    },
+    {
+      "name": "F6",
+      "width": 28,
+      "index": 306
+    },
+    {
+      "name": "F7",
+      "width": 28,
+      "index": 324
+    },
+    {
+      "name": "F8",
+      "width": 28,
+      "index": 342
+    }
+  ]
+}

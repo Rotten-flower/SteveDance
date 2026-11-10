@@ -1,0 +1,5 @@
+SteveDance media decoder uses FFmpeg 7.1.2, LGPL-2.1-or-later.
+Official corresponding source: https://ffmpeg.org/releases/ffmpeg-7.1.2.tar.xz
+FFmpeg is statically linked into the replaceable stevedance-media.dll JNI library.
+The JNI source and build script are in tools/native; corresponding source and relink archives accompany the local candidate in dist/native-source.
+No external codec download is performed during playback. Original game assets retain their owners rights.

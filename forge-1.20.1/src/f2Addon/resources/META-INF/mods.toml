@@ -1,0 +1,33 @@
+modLoader="lowcodefml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="stevedance_f2"
+version="${mod_version}"
+displayName="SteveDance: F2 Addon"
+authors="Rotten-flower"
+logoFile="stevedance-f2-icon.png"
+displayURL="https://github.com/Rotten-flower/SteveDance"
+description='''Adds 39 Project DIVA F 2nd songs to SteveDance. Songs install automatically at startup. Remove this JAR and restart with SteveDance installed to remove its unchanged song files.'''
+
+[[dependencies.stevedance_f2]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.stevedance_f2]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.stevedance_f2]]
+modId="stevedance"
+mandatory=true
+versionRange="[0.1.0,0.2.0)"
+ordering="AFTER"
+side="BOTH"

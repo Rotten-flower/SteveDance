@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "tag": "minecraft:wool" },
+    { "item": "stevedance:arcade" }
+  ],
+  "result": { "item": "stevedance:stage_marker", "count": 1 }
+}

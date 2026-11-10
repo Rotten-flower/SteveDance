@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "songs": {
+    "two_breaths_f2nd": {
+      "pv": 736,
+      "bpm": 180,
+      "stars": {
+        "easy": 2,
+        "normal": 4,
+        "hard": 6,
+        "extreme": 8
+      }
+    },
+    "ura_omote_lovers_f2nd": {
+      "pv": 708,
+      "bpm": 159,
+      "stars": {
+        "easy": 3,
+        "normal": 5,
+        "hard": 7,
+        "extreme": 9.5
+      }
+    },
+    "romeo_and_cinderella_f2nd": {
+      "pv": 705,
+      "bpm": 170,
+      "stars": {
+        "easy": 2,
+        "normal": 4,
+        "hard": 6,
+        "extreme": 8.5
+      }
+    },
+    "yubikiri_f2nd": {
+      "pv": 725,
+      "bpm": 195,
+      "stars": {
+        "easy": 1,
+        "normal": 4,
+        "hard": 6,
+        "extreme": 8
+      }
+    },
+    "roshin_yukai_f2nd": {
+      "pv": 712,
+      "bpm": 165,
+      "stars": {
+        "easy": 2,
+        "normal": 3,
+        "hard": 4,
+        "extreme": 7.5
+      }
+    },
+    "kagerou_daze_f2nd": {
+      "pv": 721,
+      "bpm": 199,
+      "stars": {
+        "easy": 2,
+        "normal": 5,
+        "hard": 6,
+        "extreme": 8.5
+      }
+    },
+    "happiness_committee_f2nd": {
+      "pv": 729,
+      "bpm": 128,
+      "stars": {
+        "easy": 3,
+        "normal": 5,
+        "hard": 6,
+        "extreme": 8.5
+      }
+    },
+    "world_is_mine_f2nd": {
+      "pv": 702,
+      "bpm": 165,
+      "stars": {
+        "easy": 1,
+        "normal": 3,
+        "hard": 4,
+        "extreme": 8
+      }
+    },
+    "cantarella_f2nd": {
+      "pv": 735,
+      "bpm": 144,
+      "stars": {
+        "easy": 1,
+        "normal": 4,
+        "hard": 5,
+        "extreme": 7.5
+      }
+    },
+    "musunde_hiraite_rasetsu_to_mukuro_f2nd": {
+      "pv": 719,
+      "bpm": 169,
+      "stars": {
+        "easy": 2,
+        "normal": 4,
+        "hard": 6,
+        "extreme": 8.5
+      }
+    },
+    "tsugai_kogarashi_f2nd": {
+      "pv": 715,
+      "bpm": 102,
+      "stars": {
+        "easy": 2,
+        "normal": 4,
+        "hard": 5,
+        "extreme": 8.5
+      }
+    },
+    "kagerou_daze_success_f2nd": {
+      "pv": 721,
+      "bpm": 199,
+      "stars": {
+        "easy": 2,
+        "normal": 5,
+        "hard": 6,
+        "extreme": 8.5
+      }
+    },
+    "hand_in_hand_x": {
+      "pv": 832,
+      "bpm": 128,
+      "stars": {
+        "easy": 0,
+        "normal": 0,
+        "hard": 0,
+        "extreme": 0
+      }
+    },
+    "umiyuri_kaitei_tan_x": {
+      "pv": 807,
+      "bpm": 120,
+      "stars": {
+        "easy": 0,
+        "normal": 0,
+        "hard": 0,
+        "extreme": 0
+      }
+    },
+    "tsugihagi_staccato_x": {
+      "pv": 812,
+      "bpm": 139,
+      "stars": {
+        "easy": 0,
+        "normal": 0,
+        "hard": 0,
+        "extreme": 0
+      }
+    },
+    "lost_ones_weeping_x": {
+      "pv": 805,
+      "bpm": 137,
+      "stars": {
+        "easy": 0,
+        "normal": 0,
+        "hard": 0,
+        "extreme": 0
+      }
+    },
+    "cyber_rock_jam_x": {
+      "pv": 827,
+      "bpm": 205,
+      "stars": {
+        "easy": 0,
+        "normal": 0,
+        "hard": 0,
+        "extreme": 0
+      }
+    },
+    "hitorinbo_envy_x": {
+      "pv": 819,
+      "bpm": 132,
+      "stars": {
+        "easy": 0,
+        "normal": 0,
+        "hard": 0,
+        "extreme": 0
+      }
+    }
+  }
+}

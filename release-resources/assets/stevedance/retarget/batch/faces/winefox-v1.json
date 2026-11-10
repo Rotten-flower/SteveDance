@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "id": "winefox-v1",
+  "source": "YSM 2.6.5 Wine Fox; Engineer Winefox https://github.com/OrangeMiracle/winefox-ysm-models",
+  "license": "CC BY-NC-SA 4.0",
+  "bones": {
+    "eyes": {
+      "name": "Eyes",
+      "pivot": [
+        0,
+        33.7,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "leftLid": {
+      "name": "LeftEyelid",
+      "pivot": [
+        2.5,
+        33.2,
+        -3.025
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "rightLid": {
+      "name": "RightEyelid",
+      "pivot": [
+        -2.5,
+        33.2,
+        -3.025
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "leftBase": {
+      "name": "LeftEyelidBase",
+      "pivot": [
+        2.325,
+        33.7,
+        -3.025
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "rightBase": {
+      "name": "RightEyelidBase",
+      "pivot": [
+        -2.325,
+        33.7,
+        -3.025
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "brows": {
+      "name": "EyeBrow",
+      "pivot": [
+        0,
+        34.4,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "leftBrow": {
+      "name": "LeftEyebrow",
+      "pivot": [
+        2.875,
+        34.55,
+        -3.325
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "rightBrow": {
+      "name": "RightEyebrow",
+      "pivot": [
+        -2.875,
+        34.55,
+        -3.325
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "mouth": {
+      "name": "Mouth",
+      "pivot": [
+        0,
+        32.05,
+        -2
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "expression": {
+      "name": "Expression",
+      "pivot": [
+        0,
+        32.05,
+        -2
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "closedMouth": {
+      "name": "Mouth_chill",
+      "pivot": [
+        0.125,
+        32.25,
+        -2.5125
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "openMouth": {
+      "name": "Mouth_surprise",
+      "pivot": [
+        0.125,
+        32.75,
+        -2.5125
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "smileMouth": {
+      "name": "Mouth_smile2",
+      "pivot": [
+        0,
+        32.275,
+        -3.5125
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "smileOpenMouth": {
+      "name": "Mouth_smile",
+      "pivot": [
+        0,
+        32.225,
+        -2.5125
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "channels": {
+    "blink": [
+      "まばたき"
+    ],
+    "smileEyes": [
+      "笑い",
+      "なごみ"
+    ],
+    "winkLeft": [
+      "ウィンク",
+      "ウィンク２"
+    ],
+    "winkRight": [
+      "ウィンク右",
+      "ｳｨﾝｸ２右"
+    ],
+    "mouthSmile": [
+      "にやり"
+    ],
+    "browRaise": [
+      "上"
+    ],
+    "browLower": [
+      "下"
+    ],
+    "browSerious": [
+      "真面目"
+    ],
+    "browSmile": [
+      "にこり"
+    ],
+    "browTroubled": [
+      "困る"
+    ],
+    "browAngry": [
+      "怒り"
+    ]
+  },
+  "calibration": {
+    "lidLift": 0.55,
+    "closedLidScale": 0.1,
+    "mouthForward": -1,
+    "blinkLift": 0,
+    "closedBlinkScale": 0,
+    "blinkBrowDrop": -1.5
+  }
+}

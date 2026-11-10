@@ -1,0 +1,400 @@
+{
+  "schema": 1,
+  "songs": {
+    "akatsuki_arrival_f2nd": {
+      "zh_cn": "拂晓抵达",
+      "ja_jp": "アカツキアライヴァル",
+      "en_us": "Akatsuki Arrival"
+    },
+    "akatsuki_arrival_success_f2nd": {
+      "zh_cn": "拂晓抵达",
+      "ja_jp": "アカツキアライヴァル",
+      "en_us": "Akatsuki Arrival"
+    },
+    "blackjack_f2nd": {
+      "zh_cn": "Blackjack",
+      "ja_jp": "Blackjack",
+      "en_us": "Blackjack"
+    },
+    "blackjack_success_f2nd": {
+      "zh_cn": "Blackjack",
+      "ja_jp": "Blackjack",
+      "en_us": "Blackjack"
+    },
+    "cantarella_f2nd": {
+      "zh_cn": "Cantarella ～grace edition～",
+      "ja_jp": "カンタレラ ～grace edition～",
+      "en_us": "Cantarella ～Grace Edition～"
+    },
+    "clover_club_f2nd": {
+      "zh_cn": "Clover♣Club",
+      "ja_jp": "クローバー♣クラブ",
+      "en_us": "Clover♣Club"
+    },
+    "clover_club_success_f2nd": {
+      "zh_cn": "Clover♣Club",
+      "ja_jp": "クローバー♣クラブ",
+      "en_us": "Clover♣Club"
+    },
+    "colorful_melody_f2nd": {
+      "zh_cn": "Colorful×Melody",
+      "ja_jp": "カラフル×メロディ",
+      "en_us": "Colorful x Melody"
+    },
+    "colorful_melody_success_f2nd": {
+      "zh_cn": "Colorful×Melody",
+      "ja_jp": "カラフル×メロディ",
+      "en_us": "Colorful x Melody"
+    },
+    "decorator_f2nd": {
+      "zh_cn": "DECORATOR",
+      "ja_jp": "DECORATOR",
+      "en_us": "DECORATOR"
+    },
+    "decorator_success_f2nd": {
+      "zh_cn": "DECORATOR",
+      "ja_jp": "DECORATOR",
+      "en_us": "DECORATOR"
+    },
+    "double_lariat_f2nd": {
+      "zh_cn": "Double Lariat",
+      "ja_jp": "ダブルラリアット",
+      "en_us": "Double Lariat"
+    },
+    "double_lariat_success_f2nd": {
+      "zh_cn": "Double Lariat",
+      "ja_jp": "ダブルラリアット",
+      "en_us": "Double Lariat"
+    },
+    "envy_catwalk_f2nd": {
+      "zh_cn": "Envy Catwalk",
+      "ja_jp": "エンヴィキャットウォーク",
+      "en_us": "Envy Cat Walk"
+    },
+    "envy_catwalk_success_f2nd": {
+      "zh_cn": "Envy Catwalk",
+      "ja_jp": "エンヴィキャットウォーク",
+      "en_us": "Envy Cat Walk"
+    },
+    "erase_or_zero_f2nd": {
+      "zh_cn": "erase or zero",
+      "ja_jp": "erase or zero",
+      "en_us": "Erase or Zero"
+    },
+    "erase_or_zero_success_f2nd": {
+      "zh_cn": "erase or zero",
+      "ja_jp": "erase or zero",
+      "en_us": "Erase or Zero"
+    },
+    "glory_3usi9_f2nd": {
+      "zh_cn": "Glory 3usi9",
+      "ja_jp": "Glory 3usi9",
+      "en_us": "Glory 3usi9"
+    },
+    "glory_3usi9_success_f2nd": {
+      "zh_cn": "Glory 3usi9",
+      "ja_jp": "Glory 3usi9",
+      "en_us": "Glory 3usi9"
+    },
+    "happiness_committee_f2nd": {
+      "zh_cn": "这里是幸福安心委员会",
+      "ja_jp": "こちら、幸福安心委員会です。",
+      "en_us": "This is the Happiness and Peace of Mind Committee"
+    },
+    "hatsune_miku_no_gekishou_f2nd": {
+      "zh_cn": "初音未来的激唱",
+      "ja_jp": "初音ミクの激唱",
+      "en_us": "The Intense Voice of Hatsune Miku"
+    },
+    "hatsune_miku_no_gekishou_success_f2nd": {
+      "zh_cn": "初音未来的激唱",
+      "ja_jp": "初音ミクの激唱",
+      "en_us": "The Intense Voice of Hatsune Miku"
+    },
+    "hello_worker_f2nd": {
+      "zh_cn": "Hello, Worker",
+      "ja_jp": "Hello, Worker",
+      "en_us": "Hello, Worker"
+    },
+    "hello_worker_success_f2nd": {
+      "zh_cn": "Hello, Worker",
+      "ja_jp": "Hello, Worker",
+      "en_us": "Hello, Worker"
+    },
+    "kagerou_daze_f2nd": {
+      "zh_cn": "阳炎眩乱",
+      "ja_jp": "カゲロウデイズ",
+      "en_us": "Kagerou Daze"
+    },
+    "kagerou_daze_success_f2nd": {
+      "zh_cn": "阳炎眩乱",
+      "ja_jp": "カゲロウデイズ",
+      "en_us": "Kagerou Daze"
+    },
+    "karakuri_pierrot_f2nd": {
+      "zh_cn": "操线小丑",
+      "ja_jp": "からくりピエロ",
+      "en_us": "Clockwork Clown"
+    },
+    "karakuri_pierrot_success_f2nd": {
+      "zh_cn": "操线小丑",
+      "ja_jp": "からくりピエロ",
+      "en_us": "Clockwork Clown"
+    },
+    "knife_f2nd": {
+      "zh_cn": "Knife",
+      "ja_jp": "Knife",
+      "en_us": "Knife"
+    },
+    "knife_success_f2nd": {
+      "zh_cn": "Knife",
+      "ja_jp": "Knife",
+      "en_us": "Knife"
+    },
+    "kokoro_f2nd": {
+      "zh_cn": "心",
+      "ja_jp": "ココロ",
+      "en_us": "Kokoro"
+    },
+    "kokoro_success_f2nd": {
+      "zh_cn": "心",
+      "ja_jp": "ココロ",
+      "en_us": "Kokoro"
+    },
+    "kowase_kowase_f2nd": {
+      "zh_cn": "破坏破坏",
+      "ja_jp": "壊セ壊セ",
+      "en_us": "Break It, Break It!"
+    },
+    "kowase_kowase_success_f2nd": {
+      "zh_cn": "破坏破坏",
+      "ja_jp": "壊セ壊セ",
+      "en_us": "Break It, Break It!"
+    },
+    "luka_luka_night_fever_f2nd": {
+      "zh_cn": "LUKALUKA★NIGHT FEVER",
+      "ja_jp": "ルカルカ★ナイトフィーバー",
+      "en_us": "Luka Luka ★ Night Fever"
+    },
+    "luka_luka_night_fever_success_f2nd": {
+      "zh_cn": "LUKALUKA★NIGHT FEVER",
+      "ja_jp": "ルカルカ★ナイトフィーバー",
+      "en_us": "Luka Luka ★ Night Fever"
+    },
+    "melt_f2nd": {
+      "zh_cn": "Melt",
+      "ja_jp": "メルト",
+      "en_us": "Melt"
+    },
+    "melt_success_f2nd": {
+      "zh_cn": "Melt",
+      "ja_jp": "メルト",
+      "en_us": "Melt"
+    },
+    "meteor_f2nd": {
+      "zh_cn": "Meteor",
+      "ja_jp": "メテオ",
+      "en_us": "Meteor"
+    },
+    "meteor_success_f2nd": {
+      "zh_cn": "Meteor",
+      "ja_jp": "メテオ",
+      "en_us": "Meteor"
+    },
+    "miku_miku_ni_shite_ageru_f2nd": {
+      "zh_cn": "把你给MIKUMIKU掉♪【MIKU掉】",
+      "ja_jp": "みくみくにしてあげる♪【してやんよ】",
+      "en_us": "I'll Miku-Miku You♪ (For Reals)"
+    },
+    "miku_miku_ni_shite_ageru_success_f2nd": {
+      "zh_cn": "把你给MIKUMIKU掉♪【MIKU掉】",
+      "ja_jp": "みくみくにしてあげる♪【してやんよ】",
+      "en_us": "I'll Miku-Miku You♪ (For Reals)"
+    },
+    "miracle_paint_f2nd": {
+      "zh_cn": "Miracle Paint",
+      "ja_jp": "ミラクルペイント",
+      "en_us": "Miracle Paint"
+    },
+    "miracle_paint_success_f2nd": {
+      "zh_cn": "Miracle Paint",
+      "ja_jp": "ミラクルペイント",
+      "en_us": "Miracle Paint"
+    },
+    "musunde_hiraite_rasetsu_to_mukuro_f2nd": {
+      "zh_cn": "连起来又分开罗刹与骨骸",
+      "ja_jp": "結ンデ開イテ羅刹ト骸",
+      "en_us": "Close and Open, Demons and The Dead"
+    },
+    "narisumashi_ganger_f2nd": {
+      "zh_cn": "虚假Ganger",
+      "ja_jp": "なりすましゲンガー",
+      "en_us": "Doubleganger"
+    },
+    "narisumashi_ganger_success_f2nd": {
+      "zh_cn": "虚假Ganger",
+      "ja_jp": "なりすましゲンガー",
+      "en_us": "Doubleganger"
+    },
+    "nijigen_dream_fever_f2nd": {
+      "zh_cn": "二次元 Dream Fever",
+      "ja_jp": "二次元ドリームフィーバー",
+      "en_us": "2D Dream Fever"
+    },
+    "nijigen_dream_fever_success_f2nd": {
+      "zh_cn": "二次元 Dream Fever",
+      "ja_jp": "二次元ドリームフィーバー",
+      "en_us": "2D Dream Fever"
+    },
+    "packaged_f2nd": {
+      "zh_cn": "Packaged",
+      "ja_jp": "Packaged",
+      "en_us": "Packaged"
+    },
+    "packaged_success_f2nd": {
+      "zh_cn": "Packaged",
+      "ja_jp": "Packaged",
+      "en_us": "Packaged"
+    },
+    "paradichlorobenzene_f2nd": {
+      "zh_cn": "Paradichlorobenzene",
+      "ja_jp": "パラジクロロベンゼン",
+      "en_us": "Paradichlorobenzene"
+    },
+    "paradichlorobenzene_success_f2nd": {
+      "zh_cn": "Paradichlorobenzene",
+      "ja_jp": "パラジクロロベンゼン",
+      "en_us": "Paradichlorobenzene"
+    },
+    "romeo_and_cinderella_f2nd": {
+      "zh_cn": "罗密欧与仙杜瑞拉",
+      "ja_jp": "ロミオとシンデレラ",
+      "en_us": "Romeo and Cinderella"
+    },
+    "roshin_yukai_f2nd": {
+      "zh_cn": "炉心融解",
+      "ja_jp": "炉心融解",
+      "en_us": "Roshin Yukai"
+    },
+    "sakura_no_ame_f2nd": {
+      "zh_cn": "樱之雨",
+      "ja_jp": "桜ノ雨",
+      "en_us": "Sakura Rain"
+    },
+    "sakura_no_ame_success_f2nd": {
+      "zh_cn": "樱之雨",
+      "ja_jp": "桜ノ雨",
+      "en_us": "Sakura Rain"
+    },
+    "sennen_no_dokusouka_f2nd": {
+      "zh_cn": "千年的独奏歌 (DIVA edit)",
+      "ja_jp": "千年の独奏歌 (DIVA edit)",
+      "en_us": "Thousand Year Solo (DIVA edit)"
+    },
+    "sennen_no_dokusouka_success_f2nd": {
+      "zh_cn": "千年的独奏歌 (DIVA edit)",
+      "ja_jp": "千年の独奏歌 (DIVA edit)",
+      "en_us": "Thousand Year Solo (DIVA edit)"
+    },
+    "soundless_voice_f2nd": {
+      "zh_cn": "soundless voice",
+      "ja_jp": "soundless voice",
+      "en_us": "Soundless Voice"
+    },
+    "soundless_voice_success_f2nd": {
+      "zh_cn": "soundless voice",
+      "ja_jp": "soundless voice",
+      "en_us": "Soundless Voice"
+    },
+    "spica_f2nd": {
+      "zh_cn": "SPiCa -39's Giving Day Edition-",
+      "ja_jp": "SPiCa -39's Giving Day Edition-",
+      "en_us": "SPiCa -39's Giving Day Edition-"
+    },
+    "spica_success_f2nd": {
+      "zh_cn": "SPiCa -39's Giving Day Edition-",
+      "ja_jp": "SPiCa -39's Giving Day Edition-",
+      "en_us": "SPiCa -39's Giving Day Edition-"
+    },
+    "suki_kirai_f2nd": {
+      "zh_cn": "喜欢讨厌",
+      "ja_jp": "スキキライ",
+      "en_us": "Love-Hate"
+    },
+    "suki_kirai_success_f2nd": {
+      "zh_cn": "喜欢讨厌",
+      "ja_jp": "スキキライ",
+      "en_us": "Love-Hate"
+    },
+    "tsugai_kogarashi_f2nd": {
+      "zh_cn": "番凩",
+      "ja_jp": "番凩",
+      "en_us": "Wintry Winds"
+    },
+    "two_breaths_f2nd": {
+      "zh_cn": "二息步行",
+      "ja_jp": "二息歩行",
+      "en_us": "Two Breaths Walking"
+    },
+    "ura_omote_lovers_f2nd": {
+      "zh_cn": "里表Lovers",
+      "ja_jp": "裏表ラバーズ",
+      "en_us": "Two-Sided Lovers"
+    },
+    "world_is_mine_f2nd": {
+      "zh_cn": "World is Mine",
+      "ja_jp": "ワールドイズマイン",
+      "en_us": "The World is Mine"
+    },
+    "yubikiri_f2nd": {
+      "zh_cn": "打勾勾",
+      "ja_jp": "指切り",
+      "en_us": "Pinky Swear"
+    },
+    "tian_tian": {
+      "zh_cn": "TIAN TIAN",
+      "ja_jp": "TIAN TIAN",
+      "en_us": "TIAN TIAN"
+    },
+    "yizhi_msr": {
+      "zh_cn": "......已至。",
+      "ja_jp": "...Has Come.",
+      "en_us": "...Has Come."
+    },
+    "bad_apple": {
+      "zh_cn": "Bad Apple!!",
+      "ja_jp": "Bad Apple!!",
+      "en_us": "Bad Apple!!"
+    },
+    "hand_in_hand_x": {
+      "zh_cn": "Hand in Hand",
+      "ja_jp": "Hand in Hand",
+      "en_us": "Hand in Hand"
+    },
+    "umiyuri_kaitei_tan_x": {
+      "zh_cn": "海百合海底谭",
+      "ja_jp": "ウミユリ海底譚",
+      "en_us": "Sea Lily Deep Sea Tale"
+    },
+    "tsugihagi_staccato_x": {
+      "zh_cn": "拼凑的断音",
+      "ja_jp": "ツギハギスタッカート",
+      "en_us": "Patchwork Staccato"
+    },
+    "lost_ones_weeping_x": {
+      "zh_cn": "Lost one的恸哭",
+      "ja_jp": "ロストワンの号哭",
+      "en_us": "The Lost One’s Weeping"
+    },
+    "cyber_rock_jam_x": {
+      "zh_cn": "酷炫组曲 ～Cyber Rock Jam～",
+      "ja_jp": "クール・メドレー ～サイバーロックジャム～",
+      "en_us": "Cool Medley ~Cyber Rock Jam~"
+    },
+    "hitorinbo_envy_x": {
+      "zh_cn": "羡妒的独角戏",
+      "ja_jp": "独りんぼエンヴィー",
+      "en_us": "Solitary Envy"
+    }
+  }
+}

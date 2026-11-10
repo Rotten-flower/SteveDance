@@ -1,0 +1,1141 @@
+{
+  "schema": 1,
+  "coordinateConvention": "bedrock",
+  "source": "YSM 2.6.5 builtin wine_fox/01_taisho_maid; skeleton metadata only; CC BY-NC-SA 4.0; model: 完美冻结; modifications: 哥斯拉（映素团队）; see SOURCES.md",
+  "bones": [
+    {
+      "name": "GuiRoot",
+      "parent": null,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "MRoot",
+      "parent": "GuiRoot",
+      "position": [
+        0,
+        12,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Root",
+      "parent": "MRoot",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "MAllbody",
+      "parent": "Root",
+      "position": [
+        0,
+        25,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "AllBody",
+      "parent": "MAllbody",
+      "position": [
+        0,
+        25,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "MUpBody",
+      "parent": "AllBody",
+      "position": [
+        0,
+        19.7,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UpBody",
+      "parent": "MUpBody",
+      "position": [
+        0,
+        19.7,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "MUpperBody",
+      "parent": "UpBody",
+      "position": [
+        0,
+        23.9644,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "UpperBody",
+      "parent": "MUpperBody",
+      "position": [
+        0,
+        23.9644,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bow",
+      "parent": "UpperBody",
+      "position": [
+        -1.28142,
+        24.46442,
+        -2.75
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bowR",
+      "parent": "bow",
+      "position": [
+        -0.76796,
+        24.37708,
+        -2.77893
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bowL",
+      "parent": "bow",
+      "position": [
+        0.76796,
+        24.17708,
+        -2.77893
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bowL1",
+      "parent": "bow",
+      "position": [
+        0.64835,
+        24.34341,
+        -2.66806
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bowL2",
+      "parent": "bowL1",
+      "position": [
+        1.04835,
+        21.64341,
+        -3.26806
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bowR1",
+      "parent": "bow",
+      "position": [
+        -0.64835,
+        24.34341,
+        -2.84306
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "bowR2",
+      "parent": "bowR1",
+      "position": [
+        -1.14835,
+        21.44341,
+        -3.14306
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "AllHead",
+      "parent": "UpperBody",
+      "position": [
+        0,
+        30.7,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "MHead",
+      "parent": "AllHead",
+      "position": [
+        0,
+        31.7,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Head",
+      "parent": "MHead",
+      "position": [
+        0,
+        31.7,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Arm",
+      "parent": "UpperBody",
+      "position": [
+        -0.2,
+        29.1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LeftArm",
+      "parent": "Arm",
+      "position": [
+        3.25,
+        29.1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        -18
+      ]
+    },
+    {
+      "name": "LeftForeArm",
+      "parent": "LeftArm",
+      "position": [
+        3.35325,
+        23.58739,
+        -0.05
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LeftHand",
+      "parent": "LeftForeArm",
+      "position": [
+        3.525,
+        16.275,
+        0.05
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RightArm",
+      "parent": "Arm",
+      "position": [
+        -3.25,
+        29.1,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        18
+      ]
+    },
+    {
+      "name": "RightForeArm",
+      "parent": "RightArm",
+      "position": [
+        -3.35325,
+        23.58739,
+        -0.05
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RightHand",
+      "parent": "RightForeArm",
+      "position": [
+        -3.525,
+        16.275,
+        0.05
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "clothe",
+      "parent": "UpBody",
+      "position": [
+        0,
+        22.825,
+        -0.075
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LeftClothe",
+      "parent": "clothe",
+      "position": [
+        3.1,
+        22.63735,
+        -0.06085
+      ],
+      "rotation": [
+        0,
+        0,
+        7.5
+      ]
+    },
+    {
+      "name": "LF",
+      "parent": "LeftClothe",
+      "position": [
+        3.2195,
+        22.71147,
+        -1.5592
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LF2",
+      "parent": "LF",
+      "position": [
+        4.1195,
+        18.71147,
+        -1.5592
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LF3",
+      "parent": "LF2",
+      "position": [
+        6.1195,
+        12.31147,
+        -2.7592
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LB",
+      "parent": "LeftClothe",
+      "position": [
+        3.41804,
+        22.74228,
+        1.51541
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LB2",
+      "parent": "LB",
+      "position": [
+        4.1195,
+        18.95947,
+        1.9592
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LB3",
+      "parent": "LB2",
+      "position": [
+        6.0195,
+        12.35947,
+        3.1592
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LM",
+      "parent": "LeftClothe",
+      "position": [
+        3.39551,
+        23.006,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LM2",
+      "parent": "LM",
+      "position": [
+        4.29551,
+        18.906,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LM3",
+      "parent": "LM2",
+      "position": [
+        6.19551,
+        12.106,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RightClothe",
+      "parent": "clothe",
+      "position": [
+        -3.3,
+        22.7854,
+        -0.0608
+      ],
+      "rotation": [
+        0,
+        0,
+        -7.5
+      ]
+    },
+    {
+      "name": "RM",
+      "parent": "RightClothe",
+      "position": [
+        -3.09551,
+        23.006,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RM2",
+      "parent": "RM",
+      "position": [
+        -4.29551,
+        19.006,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RM3",
+      "parent": "RM2",
+      "position": [
+        -6.19551,
+        12.106,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RB",
+      "parent": "RightClothe",
+      "position": [
+        -3.40361,
+        22.60524,
+        1.39998
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RB2",
+      "parent": "RB",
+      "position": [
+        -4.20361,
+        19.00524,
+        1.89998
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RB3",
+      "parent": "RB2",
+      "position": [
+        -5.60361,
+        12.20524,
+        2.99998
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RF",
+      "parent": "RightClothe",
+      "position": [
+        -3.32145,
+        22.8684,
+        -1.61541
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RF2",
+      "parent": "RF",
+      "position": [
+        -4.32096,
+        18.85133,
+        -1.71265
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RF3",
+      "parent": "RF2",
+      "position": [
+        -6.10798,
+        12.2749,
+        -2.84988
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BackClothe",
+      "parent": "clothe",
+      "position": [
+        -0.00579,
+        22.55165,
+        2.40762
+      ],
+      "rotation": [
+        -1.25,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BR",
+      "parent": "BackClothe",
+      "position": [
+        -2.39855,
+        22.61213,
+        2.45638
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BR2",
+      "parent": "BR",
+      "position": [
+        -2.94602,
+        17.06411,
+        3.73579
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BR3",
+      "parent": "BR2",
+      "position": [
+        -3.54602,
+        12.46411,
+        4.93579
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BL",
+      "parent": "BackClothe",
+      "position": [
+        2.68119,
+        23.21373,
+        2.45504
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BL2",
+      "parent": "BL",
+      "position": [
+        2.52866,
+        16.96571,
+        3.73445
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BL3",
+      "parent": "BL2",
+      "position": [
+        3.62866,
+        12.36571,
+        4.93445
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BM",
+      "parent": "BackClothe",
+      "position": [
+        0,
+        22.65066,
+        2.4071
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BM2",
+      "parent": "BM",
+      "position": [
+        0,
+        17.06326,
+        3.78359
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "BM3",
+      "parent": "BM2",
+      "position": [
+        0,
+        12.15066,
+        5.1071
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FrontClothe",
+      "parent": "clothe",
+      "position": [
+        -0.03125,
+        23.25833,
+        -2.16982
+      ],
+      "rotation": [
+        1.25,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FL",
+      "parent": "FrontClothe",
+      "position": [
+        2.14552,
+        22.66002,
+        -1.94472
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FL1",
+      "parent": "FL",
+      "position": [
+        2.96256,
+        19.00548,
+        -2.75267
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FL2",
+      "parent": "FL1",
+      "position": [
+        4.17618,
+        12.30138,
+        -4.54711
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FR",
+      "parent": "FrontClothe",
+      "position": [
+        -2.86342,
+        22.99288,
+        -2.15605
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FR1",
+      "parent": "FR",
+      "position": [
+        -2.87703,
+        18.98877,
+        -2.65048
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FR2",
+      "parent": "FR1",
+      "position": [
+        -3.87703,
+        12.28877,
+        -4.45048
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FM",
+      "parent": "FrontClothe",
+      "position": [
+        0,
+        22.74926,
+        -2.3029
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FM1",
+      "parent": "FM",
+      "position": [
+        0,
+        18.96185,
+        -2.97939
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FM2",
+      "parent": "FM1",
+      "position": [
+        0,
+        12.14926,
+        -4.6029
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FFM",
+      "parent": "FrontClothe",
+      "position": [
+        0.20405,
+        22.95281,
+        -2.00646
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FFM2",
+      "parent": "FFM",
+      "position": [
+        2.08876,
+        22.97445,
+        -2.47211
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FFM2_1",
+      "parent": "FFM2",
+      "position": [
+        2.88876,
+        18.97445,
+        -3.47211
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FFM1",
+      "parent": "FFM",
+      "position": [
+        -0.1,
+        23.49593,
+        -2.26321
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FFM1_1",
+      "parent": "FFM1",
+      "position": [
+        0.2,
+        18.99593,
+        -3.66321
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FFM3",
+      "parent": "FFM",
+      "position": [
+        -2.092,
+        22.73128,
+        -2.42383
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "FFM3_1",
+      "parent": "FFM3",
+      "position": [
+        -2.53726,
+        18.36089,
+        -3.38962
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "DownBody",
+      "parent": "AllBody",
+      "position": [
+        0,
+        19.7,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LeftLeg",
+      "parent": "DownBody",
+      "position": [
+        2.4,
+        18.95,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LeftLowerLeg",
+      "parent": "LeftLeg",
+      "position": [
+        2.2,
+        11.25,
+        0.2
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "LeftFoot",
+      "parent": "LeftLowerLeg",
+      "position": [
+        2.0875,
+        2.55,
+        -0.8625
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RightLeg",
+      "parent": "DownBody",
+      "position": [
+        -2.4,
+        18.95,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RightLowerLeg",
+      "parent": "RightLeg",
+      "position": [
+        -2.2,
+        11.25,
+        0.2
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "RightFoot",
+      "parent": "RightLowerLeg",
+      "position": [
+        -2.0875,
+        2.55,
+        -0.8625
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

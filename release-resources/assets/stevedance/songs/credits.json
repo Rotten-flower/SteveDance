@@ -1,0 +1,1063 @@
+{
+  "schema": 1,
+  "songs": {
+    "akatsuki_arrival_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "Last Note.",
+        "names": {
+          "zh_cn": "Last Note.",
+          "ja_jp": "Last Note.",
+          "en_us": "Last Note."
+        }
+      }
+    ],
+    "akatsuki_arrival_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "Last Note.",
+        "names": {
+          "zh_cn": "Last Note.",
+          "ja_jp": "Last Note.",
+          "en_us": "Last Note."
+        }
+      }
+    ],
+    "blackjack_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ゆちゃＰ",
+        "names": {
+          "zh_cn": "Yucha P",
+          "ja_jp": "ゆちゃＰ",
+          "en_us": "Yucha P"
+        }
+      }
+    ],
+    "blackjack_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ゆちゃＰ",
+        "names": {
+          "zh_cn": "Yucha P",
+          "ja_jp": "ゆちゃＰ",
+          "en_us": "Yucha P"
+        }
+      }
+    ],
+    "cantarella_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "黒うさ",
+        "names": {
+          "zh_cn": "WhiteFlame (Kurousa P)",
+          "ja_jp": "黒うさ",
+          "en_us": "WhiteFlame (Kurousa P)"
+        }
+      }
+    ],
+    "clover_club_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ゆうゆ",
+        "names": {
+          "zh_cn": "Yuuyu",
+          "ja_jp": "ゆうゆ",
+          "en_us": "Yuuyu"
+        }
+      }
+    ],
+    "clover_club_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ゆうゆ",
+        "names": {
+          "zh_cn": "Yuuyu",
+          "ja_jp": "ゆうゆ",
+          "en_us": "Yuuyu"
+        }
+      }
+    ],
+    "colorful_melody_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "minato",
+        "names": {
+          "zh_cn": "minato",
+          "ja_jp": "minato",
+          "en_us": "minato"
+        }
+      },
+      {
+        "role": "music",
+        "name": "doriko",
+        "names": {
+          "zh_cn": "doriko",
+          "ja_jp": "doriko",
+          "en_us": "doriko"
+        }
+      }
+    ],
+    "colorful_melody_success_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "minato",
+        "names": {
+          "zh_cn": "minato",
+          "ja_jp": "minato",
+          "en_us": "minato"
+        }
+      },
+      {
+        "role": "music",
+        "name": "doriko",
+        "names": {
+          "zh_cn": "doriko",
+          "ja_jp": "doriko",
+          "en_us": "doriko"
+        }
+      }
+    ],
+    "decorator_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "kz",
+        "names": {
+          "zh_cn": "kz",
+          "ja_jp": "kz",
+          "en_us": "kz"
+        }
+      }
+    ],
+    "decorator_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "kz",
+        "names": {
+          "zh_cn": "kz",
+          "ja_jp": "kz",
+          "en_us": "kz"
+        }
+      }
+    ],
+    "double_lariat_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "アゴアニキ",
+        "names": {
+          "zh_cn": "Agoaniki",
+          "ja_jp": "アゴアニキ",
+          "en_us": "Agoaniki"
+        }
+      }
+    ],
+    "double_lariat_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "アゴアニキ",
+        "names": {
+          "zh_cn": "Agoaniki",
+          "ja_jp": "アゴアニキ",
+          "en_us": "Agoaniki"
+        }
+      }
+    ],
+    "envy_catwalk_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "トーマ",
+        "names": {
+          "zh_cn": "Tohma",
+          "ja_jp": "トーマ",
+          "en_us": "Tohma"
+        }
+      }
+    ],
+    "envy_catwalk_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "トーマ",
+        "names": {
+          "zh_cn": "Tohma",
+          "ja_jp": "トーマ",
+          "en_us": "Tohma"
+        }
+      }
+    ],
+    "erase_or_zero_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "クリスタルP/bestgt",
+        "names": {
+          "zh_cn": "Crystal P / bestgt",
+          "ja_jp": "クリスタルP/bestgt",
+          "en_us": "Crystal P / bestgt"
+        }
+      }
+    ],
+    "erase_or_zero_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "クリスタルP/bestgt",
+        "names": {
+          "zh_cn": "Crystal P / bestgt",
+          "ja_jp": "クリスタルP/bestgt",
+          "en_us": "Crystal P / bestgt"
+        }
+      }
+    ],
+    "glory_3usi9_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ナノウ",
+        "names": {
+          "zh_cn": "Nanou",
+          "ja_jp": "ナノウ",
+          "en_us": "Nanou"
+        }
+      }
+    ],
+    "glory_3usi9_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ナノウ",
+        "names": {
+          "zh_cn": "Nanou",
+          "ja_jp": "ナノウ",
+          "en_us": "Nanou"
+        }
+      }
+    ],
+    "happiness_committee_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "鳥居羊",
+        "names": {
+          "zh_cn": "鸟居羊",
+          "ja_jp": "鳥居羊",
+          "en_us": "Torii Hitsuji"
+        }
+      },
+      {
+        "role": "music",
+        "name": "うたたP",
+        "names": {
+          "zh_cn": "Utata P",
+          "ja_jp": "うたたP",
+          "en_us": "Utata P"
+        }
+      }
+    ],
+    "hatsune_miku_no_gekishou_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "Storyteller",
+        "names": {
+          "zh_cn": "Storyteller",
+          "ja_jp": "Storyteller",
+          "en_us": "Storyteller"
+        }
+      }
+    ],
+    "hatsune_miku_no_gekishou_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "Storyteller",
+        "names": {
+          "zh_cn": "Storyteller",
+          "ja_jp": "Storyteller",
+          "en_us": "Storyteller"
+        }
+      }
+    ],
+    "hello_worker_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ハヤシケイ",
+        "names": {
+          "zh_cn": "KEI",
+          "ja_jp": "ハヤシケイ",
+          "en_us": "KEI"
+        }
+      }
+    ],
+    "hello_worker_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ハヤシケイ",
+        "names": {
+          "zh_cn": "KEI",
+          "ja_jp": "ハヤシケイ",
+          "en_us": "KEI"
+        }
+      }
+    ],
+    "kagerou_daze_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "じん（自然の敵P）",
+        "names": {
+          "zh_cn": "Jin",
+          "ja_jp": "じん（自然の敵P）",
+          "en_us": "Jin"
+        }
+      }
+    ],
+    "kagerou_daze_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "じん（自然の敵P）",
+        "names": {
+          "zh_cn": "Jin",
+          "ja_jp": "じん（自然の敵P）",
+          "en_us": "Jin"
+        }
+      }
+    ],
+    "karakuri_pierrot_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "40mP",
+        "names": {
+          "zh_cn": "40mP",
+          "ja_jp": "40mP",
+          "en_us": "40mP"
+        }
+      }
+    ],
+    "karakuri_pierrot_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "40mP",
+        "names": {
+          "zh_cn": "40mP",
+          "ja_jp": "40mP",
+          "en_us": "40mP"
+        }
+      }
+    ],
+    "knife_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "れるりり・マル",
+        "names": {
+          "zh_cn": "rerulili / Maru",
+          "ja_jp": "れるりり・マル",
+          "en_us": "rerulili / Maru"
+        }
+      },
+      {
+        "role": "music",
+        "name": "れるりり",
+        "names": {
+          "zh_cn": "rerulili",
+          "ja_jp": "れるりり",
+          "en_us": "rerulili"
+        }
+      }
+    ],
+    "knife_success_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "れるりり・マル",
+        "names": {
+          "zh_cn": "rerulili / Maru",
+          "ja_jp": "れるりり・マル",
+          "en_us": "rerulili / Maru"
+        }
+      },
+      {
+        "role": "music",
+        "name": "れるりり",
+        "names": {
+          "zh_cn": "rerulili",
+          "ja_jp": "れるりり",
+          "en_us": "rerulili"
+        }
+      }
+    ],
+    "kokoro_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "トラボルタ",
+        "names": {
+          "zh_cn": "Toraboruta",
+          "ja_jp": "トラボルタ",
+          "en_us": "Toraboruta"
+        }
+      }
+    ],
+    "kokoro_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "トラボルタ",
+        "names": {
+          "zh_cn": "Toraboruta",
+          "ja_jp": "トラボルタ",
+          "en_us": "Toraboruta"
+        }
+      }
+    ],
+    "kowase_kowase_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ユーキ(E.L.V.N)",
+        "names": {
+          "zh_cn": "E.L.V.N",
+          "ja_jp": "ユーキ(E.L.V.N)",
+          "en_us": "E.L.V.N"
+        }
+      }
+    ],
+    "kowase_kowase_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ユーキ(E.L.V.N)",
+        "names": {
+          "zh_cn": "E.L.V.N",
+          "ja_jp": "ユーキ(E.L.V.N)",
+          "en_us": "E.L.V.N"
+        }
+      }
+    ],
+    "luka_luka_night_fever_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "samfree",
+        "names": {
+          "zh_cn": "samfree",
+          "ja_jp": "samfree",
+          "en_us": "samfree"
+        }
+      }
+    ],
+    "luka_luka_night_fever_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "samfree",
+        "names": {
+          "zh_cn": "samfree",
+          "ja_jp": "samfree",
+          "en_us": "samfree"
+        }
+      }
+    ],
+    "melt_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ryo",
+        "names": {
+          "zh_cn": "ryo",
+          "ja_jp": "ryo",
+          "en_us": "ryo"
+        }
+      }
+    ],
+    "melt_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ryo",
+        "names": {
+          "zh_cn": "ryo",
+          "ja_jp": "ryo",
+          "en_us": "ryo"
+        }
+      }
+    ],
+    "meteor_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "じょん",
+        "names": {
+          "zh_cn": "John Zeroness",
+          "ja_jp": "じょん",
+          "en_us": "John Zeroness"
+        }
+      }
+    ],
+    "meteor_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "じょん",
+        "names": {
+          "zh_cn": "John Zeroness",
+          "ja_jp": "じょん",
+          "en_us": "John Zeroness"
+        }
+      }
+    ],
+    "miku_miku_ni_shite_ageru_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ika_mo",
+        "names": {
+          "zh_cn": "ika_mo",
+          "ja_jp": "ika_mo",
+          "en_us": "ika_mo"
+        }
+      }
+    ],
+    "miku_miku_ni_shite_ageru_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ika_mo",
+        "names": {
+          "zh_cn": "ika_mo",
+          "ja_jp": "ika_mo",
+          "en_us": "ika_mo"
+        }
+      }
+    ],
+    "miracle_paint_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "OSTER project",
+        "names": {
+          "zh_cn": "OSTER project",
+          "ja_jp": "OSTER project",
+          "en_us": "OSTER project"
+        }
+      }
+    ],
+    "miracle_paint_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "OSTER project",
+        "names": {
+          "zh_cn": "OSTER project",
+          "ja_jp": "OSTER project",
+          "en_us": "OSTER project"
+        }
+      }
+    ],
+    "musunde_hiraite_rasetsu_to_mukuro_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ハチ",
+        "names": {
+          "zh_cn": "Hachi",
+          "ja_jp": "ハチ",
+          "en_us": "Hachi"
+        }
+      }
+    ],
+    "narisumashi_ganger_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "kulfiQ",
+        "names": {
+          "zh_cn": "kulfiQ",
+          "ja_jp": "kulfiQ",
+          "en_us": "kulfiQ"
+        }
+      }
+    ],
+    "narisumashi_ganger_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "kulfiQ",
+        "names": {
+          "zh_cn": "kulfiQ",
+          "ja_jp": "kulfiQ",
+          "en_us": "kulfiQ"
+        }
+      }
+    ],
+    "nijigen_dream_fever_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "PolyphonicBranch",
+        "names": {
+          "zh_cn": "PolyphonicBranch",
+          "ja_jp": "PolyphonicBranch",
+          "en_us": "PolyphonicBranch"
+        }
+      }
+    ],
+    "nijigen_dream_fever_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "PolyphonicBranch",
+        "names": {
+          "zh_cn": "PolyphonicBranch",
+          "ja_jp": "PolyphonicBranch",
+          "en_us": "PolyphonicBranch"
+        }
+      }
+    ],
+    "packaged_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "kz",
+        "names": {
+          "zh_cn": "kz",
+          "ja_jp": "kz",
+          "en_us": "kz"
+        }
+      }
+    ],
+    "packaged_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "kz",
+        "names": {
+          "zh_cn": "kz",
+          "ja_jp": "kz",
+          "en_us": "kz"
+        }
+      }
+    ],
+    "paradichlorobenzene_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "オワタP",
+        "names": {
+          "zh_cn": "Owata P",
+          "ja_jp": "オワタP",
+          "en_us": "Owata P"
+        }
+      }
+    ],
+    "paradichlorobenzene_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "オワタP",
+        "names": {
+          "zh_cn": "Owata P",
+          "ja_jp": "オワタP",
+          "en_us": "Owata P"
+        }
+      }
+    ],
+    "romeo_and_cinderella_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "doriko",
+        "names": {
+          "zh_cn": "doriko",
+          "ja_jp": "doriko",
+          "en_us": "doriko"
+        }
+      }
+    ],
+    "roshin_yukai_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "kuma(alfred)",
+        "names": {
+          "zh_cn": "kuma(alfred)",
+          "ja_jp": "kuma(alfred)",
+          "en_us": "kuma(alfred)"
+        }
+      },
+      {
+        "role": "music",
+        "name": "iroha(sasaki)",
+        "names": {
+          "zh_cn": "iroha(sasaki)",
+          "ja_jp": "iroha(sasaki)",
+          "en_us": "iroha(sasaki)"
+        }
+      }
+    ],
+    "sakura_no_ame_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "halyosy",
+        "names": {
+          "zh_cn": "halyosy",
+          "ja_jp": "halyosy",
+          "en_us": "halyosy"
+        }
+      }
+    ],
+    "sakura_no_ame_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "halyosy",
+        "names": {
+          "zh_cn": "halyosy",
+          "ja_jp": "halyosy",
+          "en_us": "halyosy"
+        }
+      }
+    ],
+    "sennen_no_dokusouka_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "yanagi",
+        "names": {
+          "zh_cn": "yanagi",
+          "ja_jp": "yanagi",
+          "en_us": "yanagi"
+        }
+      }
+    ],
+    "sennen_no_dokusouka_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "yanagi",
+        "names": {
+          "zh_cn": "yanagi",
+          "ja_jp": "yanagi",
+          "en_us": "yanagi"
+        }
+      }
+    ],
+    "soundless_voice_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ひとしずくP",
+        "names": {
+          "zh_cn": "Hitoshizuku P",
+          "ja_jp": "ひとしずくP",
+          "en_us": "Hitoshizuku P"
+        }
+      }
+    ],
+    "soundless_voice_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ひとしずくP",
+        "names": {
+          "zh_cn": "Hitoshizuku P",
+          "ja_jp": "ひとしずくP",
+          "en_us": "Hitoshizuku P"
+        }
+      }
+    ],
+    "spica_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "kentax vs toku",
+        "names": {
+          "zh_cn": "kentax vs toku",
+          "ja_jp": "kentax vs toku",
+          "en_us": "kentax vs toku"
+        }
+      },
+      {
+        "role": "music",
+        "name": "とく",
+        "names": {
+          "zh_cn": "toku",
+          "ja_jp": "とく",
+          "en_us": "toku"
+        }
+      }
+    ],
+    "spica_success_f2nd": [
+      {
+        "role": "lyrics",
+        "name": "kentax vs toku",
+        "names": {
+          "zh_cn": "kentax vs toku",
+          "ja_jp": "kentax vs toku",
+          "en_us": "kentax vs toku"
+        }
+      },
+      {
+        "role": "music",
+        "name": "とく",
+        "names": {
+          "zh_cn": "toku",
+          "ja_jp": "とく",
+          "en_us": "toku"
+        }
+      }
+    ],
+    "suki_kirai_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "HonnyWorks",
+        "names": {
+          "zh_cn": "HoneyWorks",
+          "ja_jp": "HoneyWorks",
+          "en_us": "HoneyWorks"
+        }
+      }
+    ],
+    "suki_kirai_success_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "HonnyWorks",
+        "names": {
+          "zh_cn": "HoneyWorks",
+          "ja_jp": "HoneyWorks",
+          "en_us": "HoneyWorks"
+        }
+      }
+    ],
+    "tsugai_kogarashi_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "hinayukki@仕事してP",
+        "names": {
+          "zh_cn": "hinayukki@shigotoshite P",
+          "ja_jp": "hinayukki@仕事してP",
+          "en_us": "hinayukki@shigotoshite P"
+        }
+      }
+    ],
+    "two_breaths_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "DECO*27",
+        "names": {
+          "zh_cn": "DECO*27",
+          "ja_jp": "DECO*27",
+          "en_us": "DECO*27"
+        }
+      }
+    ],
+    "ura_omote_lovers_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "wowaka",
+        "names": {
+          "zh_cn": "wowaka",
+          "ja_jp": "wowaka",
+          "en_us": "wowaka"
+        }
+      }
+    ],
+    "world_is_mine_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "ryo",
+        "names": {
+          "zh_cn": "ryo",
+          "ja_jp": "ryo",
+          "en_us": "ryo"
+        }
+      }
+    ],
+    "yubikiri_f2nd": [
+      {
+        "role": "lyrics_music",
+        "name": "すこっぷ",
+        "names": {
+          "zh_cn": "scop",
+          "ja_jp": "すこっぷ",
+          "en_us": "scop"
+        }
+      }
+    ],
+    "hand_in_hand_x": [
+      {
+        "role": "lyrics_music",
+        "name": "kz",
+        "names": {
+          "zh_cn": "kz",
+          "ja_jp": "kz",
+          "en_us": "kz"
+        }
+      },
+      {
+        "role": "creator",
+        "name": "livetune",
+        "names": {
+          "zh_cn": "livetune",
+          "ja_jp": "livetune",
+          "en_us": "livetune"
+        }
+      }
+    ],
+    "umiyuri_kaitei_tan_x": [
+      {
+        "role": "lyrics_music",
+        "name": "n-buna",
+        "names": {
+          "zh_cn": "n-buna",
+          "ja_jp": "n-buna",
+          "en_us": "n-buna"
+        }
+      },
+      {
+        "role": "creator",
+        "name": "n-buna",
+        "names": {
+          "zh_cn": "n-buna",
+          "ja_jp": "n-buna",
+          "en_us": "n-buna"
+        }
+      }
+    ],
+    "tsugihagi_staccato_x": [
+      {
+        "role": "lyrics_music",
+        "name": "とあ",
+        "names": {
+          "zh_cn": "toa",
+          "ja_jp": "とあ",
+          "en_us": "toa"
+        }
+      },
+      {
+        "role": "creator",
+        "name": "とあ",
+        "names": {
+          "zh_cn": "toa",
+          "ja_jp": "とあ",
+          "en_us": "toa"
+        }
+      }
+    ],
+    "lost_ones_weeping_x": [
+      {
+        "role": "lyrics_music",
+        "name": "Neru",
+        "names": {
+          "zh_cn": "Neru",
+          "ja_jp": "Neru",
+          "en_us": "Neru"
+        }
+      },
+      {
+        "role": "creator",
+        "name": "Neru",
+        "names": {
+          "zh_cn": "Neru",
+          "ja_jp": "Neru",
+          "en_us": "Neru"
+        }
+      }
+    ],
+    "cyber_rock_jam_x": [
+      {
+        "role": "creator",
+        "name": "wowaka・ライブP・ゆうゆ・ゆよゆっぺ・n.k",
+        "names": {
+          "zh_cn": "wowaka / Live-P / Yuuyu / Yuyoyuppe / n.k",
+          "ja_jp": "wowaka・ライブP・ゆうゆ・ゆよゆっぺ・n.k",
+          "en_us": "wowaka / Live-P / Yuuyu / Yuyoyuppe / n.k"
+        }
+      },
+      {
+        "role": "medley",
+        "name": "DIVELA　音控：攻(おさむ)",
+        "names": {
+          "zh_cn": "DIVELA；调声：Osamu",
+          "ja_jp": "DIVELA　調声：攻(おさむ)",
+          "en_us": "DIVELA; vocal tuning: Osamu"
+        }
+      }
+    ],
+    "hitorinbo_envy_x": [
+      {
+        "role": "lyrics_music",
+        "name": "koyori",
+        "names": {
+          "zh_cn": "koyori",
+          "ja_jp": "koyori",
+          "en_us": "koyori"
+        }
+      },
+      {
+        "role": "creator",
+        "name": "koyori(電ポルP)",
+        "names": {
+          "zh_cn": "koyori (Denporu-P)",
+          "ja_jp": "koyori(電ポルP)",
+          "en_us": "koyori (Denporu-P)"
+        }
+      }
+    ],
+    "tian_tian": [
+      {
+        "role": "creator",
+        "name": "Mili",
+        "names": {
+          "zh_cn": "Mili",
+          "ja_jp": "Mili",
+          "en_us": "Mili"
+        }
+      },
+      {
+        "role": "other",
+        "name": "Chart: Rotten-flower / AI-assisted",
+        "names": {
+          "zh_cn": "谱面：Rotten-flower / AI 辅助",
+          "ja_jp": "譜面：Rotten-flower / AI補助",
+          "en_us": "Chart: Rotten-flower / AI-assisted"
+        }
+      }
+    ],
+    "yizhi_msr": [
+      {
+        "role": "creator",
+        "name": "塞壬唱片-MSR / 秋田真典",
+        "names": {
+          "zh_cn": "塞壬唱片-MSR / 秋田真典",
+          "ja_jp": "Monster Siren Records / 秋田真典",
+          "en_us": "Monster Siren Records / Masanori Akita"
+        }
+      },
+      {
+        "role": "music",
+        "name": "秋田真典",
+        "names": {
+          "zh_cn": "秋田真典",
+          "ja_jp": "秋田真典",
+          "en_us": "Masanori Akita"
+        }
+      },
+      {
+        "role": "arrangement",
+        "name": "Miaa",
+        "names": {
+          "zh_cn": "Miaa",
+          "ja_jp": "Miaa",
+          "en_us": "Miaa"
+        }
+      },
+      {
+        "role": "other",
+        "name": "Chart: Rotten-flower / AI-assisted",
+        "names": {
+          "zh_cn": "谱面：Rotten-flower / AI 辅助",
+          "ja_jp": "譜面：Rotten-flower / AI補助",
+          "en_us": "Chart: Rotten-flower / AI-assisted"
+        }
+      }
+    ],
+    "bad_apple": [
+      {
+        "role": "lyrics",
+        "name": "Haruka",
+        "names": {
+          "zh_cn": "Haruka",
+          "ja_jp": "Haruka",
+          "en_us": "Haruka"
+        }
+      },
+      {
+        "role": "music",
+        "name": "ZUN",
+        "names": {
+          "zh_cn": "ZUN",
+          "ja_jp": "ZUN",
+          "en_us": "ZUN"
+        }
+      },
+      {
+        "role": "arrangement",
+        "name": "Masayoshi Minoshima",
+        "names": {
+          "zh_cn": "蓑岛正佳",
+          "ja_jp": "簑島正佳",
+          "en_us": "Masayoshi Minoshima"
+        }
+      },
+      {
+        "role": "vocal",
+        "name": "nomico",
+        "names": {
+          "zh_cn": "nomico",
+          "ja_jp": "nomico",
+          "en_us": "nomico"
+        }
+      }
+    ]
+  }
+}

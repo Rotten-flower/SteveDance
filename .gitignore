@@ -1,0 +1,15 @@
+**/.gradle/
+**/build/
+**/run/
+**/run-server/
+**/saves/
+**/logs/
+**/screenshots/
+*.log
+*.hprof
+hs_err_pid*
+.idea/
+.vscode/
+.env*
+**/AGENTS.md
+**/CURRENT.md

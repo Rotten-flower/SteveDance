@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 2000,
+  "package": "dev.flower.stevedance.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "stevedance.refmap.json",
+  "plugin": "dev.flower.stevedance.client.mixin.OptionalModelMixinPlugin",
+  "client": [
+    "PlayerDanceMixin",
+    "PerformerSkinMixin",
+    "YsmSelectedVanillaMixin",
+    "VanillaPerformerScaleMixin",
+    "PerformerHeldItemMixin",
+    "YsmAnimationControllerMixin",
+    "WorldCameraMixin",
+    "StageProjectionMixin",
+    "YsmPropMixin",
+    "YsmLightMixin",
+    "PvEnvironmentMixin",
+    "PvScenePassMixin",
+    "PvPerformerCullMixin",
+    "PresentationBlockEntityMixin",
+    "IsolatedEntityRendererMixin",
+    "VanillaPerformerLightMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "schema": 2,
+  "bones": {
+    "eyes": {
+      "name": "Eyes",
+      "pivot": [
+        0.0,
+        40.70945,
+        -0.5
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "lids": {
+      "name": "Eyelid",
+      "pivot": [
+        0.0,
+        40.65945,
+        -0.3
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "leftLid": {
+      "name": "LeftEyelid",
+      "pivot": [
+        2.5,
+        39.70945,
+        -3.525
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "rightLid": {
+      "name": "RightEyelid",
+      "pivot": [
+        -2.5,
+        39.70945,
+        -3.525
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "leftBase": {
+      "name": "LeftEyesBase",
+      "pivot": [
+        2.325,
+        39.70945,
+        -3.525
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "rightBase": {
+      "name": "RightEyesBase",
+      "pivot": [
+        -2.325,
+        39.70945,
+        -3.525
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "leftBrow": {
+      "name": "LeftEyebrow",
+      "pivot": [
+        2.875,
+        41.50945,
+        -3.625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "rightBrow": {
+      "name": "RightEyebrow",
+      "pivot": [
+        -2.875,
+        41.50945,
+        -3.625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "brows": {
+      "name": "Eyebrow",
+      "pivot": [
+        2.875,
+        41.50945,
+        -3.625
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "channels": {
+    "blink": [
+      "まばたき"
+    ],
+    "winkLeft": [
+      "ウィンク"
+    ],
+    "winkRight": [
+      "ウィンク右"
+    ],
+    "smileEyes": [
+      "笑い"
+    ],
+    "browRaise": [
+      "上"
+    ],
+    "browLower": [
+      "下"
+    ],
+    "browSerious": [
+      "真面目"
+    ],
+    "browSmile": [
+      "にこり"
+    ],
+    "browTroubled": [
+      "困る"
+    ],
+    "browAngry": [
+      "怒り"
+    ]
+  },
+  "calibration": {
+    "lidLift": 0.0,
+    "closedLidScale": 0,
+    "blinkLift": 0.0,
+    "closedBlinkScale": 0,
+    "blinkBrowDrop": -1.5000000137120486,
+    "smileBrowDrop": -1.5000000137120486,
+    "extraBlinkBrowDrop": 0,
+    "mouthForward": 0
+  },
+  "id": "custom_face_6f86bdd473ffe7cb"
+}

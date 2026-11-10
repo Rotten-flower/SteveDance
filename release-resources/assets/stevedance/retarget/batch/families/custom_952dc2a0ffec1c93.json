@@ -1,0 +1,336 @@
+{
+  "schema": 1,
+  "coordinateConvention": "common",
+  "bones": [
+    {
+      "name": "AllBody",
+      "nativeName": "AllBody",
+      "parent": "Root",
+      "position": [
+        0.0,
+        21.7,
+        1.0
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "AllHead",
+      "nativeName": "AllHead",
+      "parent": "UpperBody",
+      "position": [
+        0.0,
+        31.90579,
+        1.37216
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "Arm",
+      "nativeName": "Arm",
+      "parent": "UpperBody",
+      "position": [
+        -3.55,
+        30.975,
+        1.25
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "DHead",
+      "nativeName": "DHead",
+      "parent": "AllHead",
+      "position": [
+        0.0,
+        33.225,
+        1.225
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "DownBody",
+      "nativeName": "DownBody",
+      "parent": "AllBody",
+      "position": [
+        0.0,
+        19.65,
+        1.175
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "Head",
+      "nativeName": "HHead",
+      "parent": "DHead",
+      "position": [
+        0.0,
+        33.225,
+        1.225
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "LeftArm",
+      "nativeName": "LeftArm",
+      "parent": "Arm",
+      "position": [
+        3.55,
+        30.975,
+        1.25
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        18.000000500895634
+      ]
+    },
+    {
+      "name": "LeftFoot",
+      "nativeName": "LeftFoot",
+      "parent": "LeftLowerLeg",
+      "position": [
+        2.0,
+        2.25,
+        0.0
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "LeftForeArm",
+      "nativeName": "LeftForeArm",
+      "parent": "LeftArm",
+      "position": [
+        4.275,
+        25.325,
+        1.275
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "LeftHand",
+      "nativeName": "LeftHand",
+      "parent": "LeftForeArm",
+      "position": [
+        3.85,
+        19.275,
+        1.2
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "LeftLeg",
+      "nativeName": "LeftLeg",
+      "parent": "Leg",
+      "position": [
+        2.45,
+        20.45,
+        0.525
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "LeftLowerLeg",
+      "nativeName": "LeftLowerLeg",
+      "parent": "LeftLeg",
+      "position": [
+        1.85,
+        12.1,
+        0.175
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "Leg",
+      "nativeName": "Leg",
+      "parent": "DownBody",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "MRoot",
+      "nativeName": "MRoot",
+      "parent": null,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "RightArm",
+      "nativeName": "RightArm",
+      "parent": "Arm",
+      "position": [
+        -3.55,
+        30.975,
+        1.25
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -18.000000500895634
+      ]
+    },
+    {
+      "name": "RightFoot",
+      "nativeName": "RightFoot",
+      "parent": "RightLowerLeg",
+      "position": [
+        -2.0,
+        2.25,
+        0.0
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "RightForeArm",
+      "nativeName": "RightForeArm",
+      "parent": "RightArm",
+      "position": [
+        -4.275,
+        25.325,
+        1.275
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "RightHand",
+      "nativeName": "RightHand",
+      "parent": "RightForeArm",
+      "position": [
+        -3.85,
+        19.275,
+        1.2
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "RightLeg",
+      "nativeName": "RightLeg",
+      "parent": "Leg",
+      "position": [
+        -2.45,
+        20.45,
+        0.525
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "RightLowerLeg",
+      "nativeName": "RightLowerLeg",
+      "parent": "RightLeg",
+      "position": [
+        -1.85,
+        12.1,
+        0.175
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "Root",
+      "nativeName": "Root",
+      "parent": "MRoot",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    },
+    {
+      "name": "UpperBody",
+      "nativeName": "UpBody",
+      "parent": "AllBody",
+      "position": [
+        0.0,
+        19.95,
+        1.0
+      ],
+      "rotation": [
+        -0.0,
+        0.0,
+        -0.0
+      ]
+    }
+  ]
+}

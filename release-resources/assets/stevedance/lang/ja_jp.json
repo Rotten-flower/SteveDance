@@ -1,0 +1,10 @@
+{
+  "ui.stevedance.credit.other": "%s",
+  "ui.stevedance.credit.lyrics_music": "作詞・作曲：%s",
+  "ui.stevedance.credit.lyrics": "作詞：%s",
+  "ui.stevedance.credit.music": "作曲：%s",
+  "ui.stevedance.credit.arrangement": "編曲：%s",
+  "ui.stevedance.credit.creator": "アーティスト：%s",
+  "ui.stevedance.credit.medley": "メドレー編曲：%s",
+  "ui.stevedance.credit.vocal": "歌唱：%s"
+}

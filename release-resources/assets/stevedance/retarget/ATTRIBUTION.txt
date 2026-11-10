@@ -1,0 +1,18 @@
+Wine Fox rig metadata (winefox.json)
+Source: Yes Steve Model 2.6.5, builtin wine_fox/01_taisho_maid/models/main.json.
+Original model: 完美冻结 (https://space.bilibili.com/17798027).
+Model modifications: 哥斯拉（映素团队）. Animation: 星屑海螺.
+New textures: 白帆小喵. UI textures: 蓝玫瑰. Mask model: 墨染逝羽.
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Changes: selected joint hierarchy, pivot positions and reference rotations for MMD retargeting;
+derived body/skirt collision bounds and bow attachment samples (winefox-garments.json).
+This metadata and adaptations retain the same license. No renderable mesh, textures or YSM animations are included.
+
+MMD reference rig (miku-reference.json)
+Source: three.js r150, examples/models/mmd/miku/miku_v2.pmd.
+https://github.com/mrdoob/three.js/tree/r150/examples/models/mmd/miku
+Reference model associated with MikuMikuDance / 樋口優 and the bundled 初音ミク model.
+Only joint names, hierarchy and reference positions are included for interoperability calibration.
+The model assets are not covered by the three.js MIT license.
+This is a compatible reference skeleton, not a claim to be the exact WAVEFILE capture model.

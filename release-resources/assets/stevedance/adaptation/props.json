@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "songs": {
+    "cantarella_f2nd": [
+      {
+        "actor": 0,
+        "graph": "itmpv735_1p_001",
+        "role": "UpperBody",
+        "maximumSourceDistance": 0.3,
+        "rig": "ITMPV735_VIOLIN_01",
+        "fitMode": "two-hand-instrument"
+      },
+      {
+        "actor": 0,
+        "graph": "itmpv735_1p_001",
+        "role": "RightHand",
+        "maximumSourceDistance": 0.2,
+        "rig": "ITMPV735_YUMI_01",
+        "pairedWith": "ITMPV735_VIOLIN_01"
+      },
+      {
+        "actor": 1,
+        "graph": "itmpv735_2p_001",
+        "role": "LeftHand",
+        "maximumSourceDistance": 0.18,
+        "rig": "ITMPV735_BIN_01"
+      }
+    ]
+  }
+}

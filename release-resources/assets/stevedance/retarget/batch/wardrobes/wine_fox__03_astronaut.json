@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "coordinateConvention": "bedrock",
+  "source": "YSM 2.6.5 builtin/wine_fox/03_astronaut/models/main.json",
+  "license": "CC BY-NC-SA 4.0",
+  "bones": [],
+  "garments": {
+    "schema": 1,
+    "skirtMode": "sampled",
+    "clearance": 0.12,
+    "anchors": [],
+    "colliders": [],
+    "parts": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "songs": [
+    {
+      "id": "two_breaths_f2nd",
+      "titleKey": "song.stevedance.two_breaths",
+      "durationMs": 185000
+    },
+    {
+      "id": "ura_omote_lovers_f2nd",
+      "titleKey": "song.stevedance.ura_omote_lovers",
+      "durationMs": 186667
+    },
+    {
+      "id": "romeo_and_cinderella_f2nd",
+      "titleKey": "song.stevedance.romeo_and_cinderella",
+      "durationMs": 192000
+    },
+    {
+      "id": "yubikiri_f2nd",
+      "titleKey": "song.stevedance.yubikiri",
+      "durationMs": 162500
+    },
+    {
+      "id": "roshin_yukai_f2nd",
+      "titleKey": "song.stevedance.roshin_yukai",
+      "durationMs": 208800
+    },
+    {
+      "id": "kagerou_daze_f2nd",
+      "titleKey": "song.stevedance.kagerou_daze",
+      "durationMs": 236000
+    },
+    {
+      "id": "happiness_committee_f2nd",
+      "titleKey": "song.stevedance.happiness_committee",
+      "durationMs": 218533
+    },
+    {
+      "id": "world_is_mine_f2nd",
+      "titleKey": "song.stevedance.world_is_mine",
+      "durationMs": 173833
+    },
+    {
+      "id": "cantarella_f2nd",
+      "titleKey": "song.stevedance.cantarella",
+      "durationMs": 180667
+    },
+    {
+      "id": "kagerou_daze_success_f2nd",
+      "titleKey": "song.stevedance.kagerou_daze_success",
+      "durationMs": 236000
+    },
+    {
+      "id": "tsugai_kogarashi_f2nd",
+      "titleKey": "song.stevedance.tsugai_kogarashi",
+      "durationMs": 200200
+    },
+    {
+      "id": "musunde_hiraite_rasetsu_to_mukuro_f2nd",
+      "titleKey": "song.stevedance.musunde_hiraite_rasetsu_to_mukuro",
+      "durationMs": 193000
+    },
+    {
+      "id": "hand_in_hand_x",
+      "titleKey": "song.stevedance.hand_in_hand_x",
+      "durationMs": 208125
+    },
+    {
+      "id": "umiyuri_kaitei_tan_x",
+      "titleKey": "song.stevedance.umiyuri_kaitei_tan_x",
+      "durationMs": 170983
+    },
+    {
+      "id": "tsugihagi_staccato_x",
+      "titleKey": "song.stevedance.tsugihagi_staccato_x",
+      "durationMs": 185333
+    },
+    {
+      "id": "lost_ones_weeping_x",
+      "titleKey": "song.stevedance.lost_ones_weeping_x",
+      "durationMs": 218317
+    },
+    {
+      "id": "cyber_rock_jam_x",
+      "titleKey": "song.stevedance.cyber_rock_jam_x",
+      "durationMs": 251667
+    },
+    {
+      "id": "hitorinbo_envy_x",
+      "titleKey": "song.stevedance.hitorinbo_envy_x",
+      "durationMs": 210000
+    }
+  ]
+}

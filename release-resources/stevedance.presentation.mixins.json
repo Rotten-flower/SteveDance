@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 2000,
+  "package": "dev.flower.stevedance.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "stevedance.refmap.json",
+  "client": [
+    "PvParticleEngineMixin",
+    "FirstPersonArmorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

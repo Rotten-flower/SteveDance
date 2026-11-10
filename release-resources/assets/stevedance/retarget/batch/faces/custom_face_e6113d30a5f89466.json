@@ -1,0 +1,178 @@
+{
+  "schema": 2,
+  "bones": {
+    "eyes": {
+      "name": "Eyes",
+      "pivot": [
+        0.0,
+        40.74866,
+        0.42751
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "lids": {
+      "name": "Eyelid",
+      "pivot": [
+        0.0,
+        41.44866,
+        0.62751
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "leftLid": {
+      "name": "LeftEyelid",
+      "pivot": [
+        2.5,
+        39.74866,
+        -2.59749
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "rightLid": {
+      "name": "RightEyelid",
+      "pivot": [
+        -2.5,
+        39.74866,
+        -2.59749
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "leftBase": {
+      "name": "LeftEyesBase",
+      "pivot": [
+        2.325,
+        39.74866,
+        -2.59749
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "rightBase": {
+      "name": "RightEyesBase",
+      "pivot": [
+        -2.325,
+        39.74866,
+        -2.59749
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "leftBrow": {
+      "name": "LeftEyebrow",
+      "pivot": [
+        2.875,
+        41.54866,
+        -2.69749
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "rightBrow": {
+      "name": "RightEyebrow",
+      "pivot": [
+        -2.875,
+        41.54866,
+        -2.69749
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "brows": {
+      "name": "Eyebrow",
+      "pivot": [
+        2.875,
+        41.54866,
+        -2.69749
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "leftBlinkBrow": {
+      "name": "LeftEyebrow2",
+      "pivot": [
+        2.86238,
+        41.29609,
+        -2.86172
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "channels": {
+    "blink": [
+      "まばたき"
+    ],
+    "winkLeft": [
+      "ウィンク"
+    ],
+    "winkRight": [
+      "ウィンク右"
+    ],
+    "smileEyes": [
+      "笑い"
+    ],
+    "browRaise": [
+      "上"
+    ],
+    "browLower": [
+      "下"
+    ],
+    "browSerious": [
+      "真面目"
+    ],
+    "browSmile": [
+      "にこり"
+    ],
+    "browTroubled": [
+      "困る"
+    ],
+    "browAngry": [
+      "怒り"
+    ]
+  },
+  "calibration": {
+    "lidLift": 0.0,
+    "closedLidScale": 0,
+    "blinkLift": 0.0,
+    "closedBlinkScale": 0,
+    "blinkBrowDrop": 0.0,
+    "smileBrowDrop": 0.0,
+    "extraBlinkBrowDrop": -1.4999999956690535,
+    "mouthForward": 0
+  },
+  "id": "custom_face_e6113d30a5f89466"
+}

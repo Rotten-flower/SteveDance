@@ -1,0 +1,143 @@
+{
+  "schema": 1,
+  "challenges": [
+    {
+      "id": "first_hard_clear",
+      "enabled": false,
+      "title": "首次困难通关",
+      "repeat": "ONCE",
+      "condition": {
+        "trigger": "RESULT",
+        "songs": [
+          "*"
+        ],
+        "minDifficulty": "hard",
+        "cleared": true,
+        "minRank": "any",
+        "minScore": 0,
+        "minAchievement": 0,
+        "minCombo": 0,
+        "progressPercent": 0
+      },
+      "rewards": {
+        "items": [
+          {
+            "item": "minecraft:diamond",
+            "count": 3
+          }
+        ],
+        "experience": 0,
+        "commands": []
+      }
+    },
+    {
+      "id": "daily_excellent",
+      "enabled": false,
+      "title": "每日优秀成绩",
+      "repeat": "DAILY",
+      "condition": {
+        "trigger": "RESULT",
+        "songs": [
+          "*"
+        ],
+        "minDifficulty": "easy",
+        "cleared": true,
+        "minRank": "any",
+        "minScore": 0,
+        "minAchievement": 95,
+        "minCombo": 0,
+        "progressPercent": 0
+      },
+      "rewards": {
+        "items": [],
+        "experience": 100,
+        "commands": []
+      }
+    },
+    {
+      "id": "halfway",
+      "enabled": false,
+      "title": "完成半首歌曲",
+      "repeat": "ONCE",
+      "condition": {
+        "trigger": "PROGRESS",
+        "songs": [
+          "*"
+        ],
+        "minDifficulty": "easy",
+        "cleared": false,
+        "minRank": "any",
+        "minScore": 0,
+        "minAchievement": 0,
+        "minCombo": 0,
+        "progressPercent": 50
+      },
+      "rewards": {
+        "items": [
+          {
+            "item": "minecraft:emerald",
+            "count": 1
+          }
+        ],
+        "experience": 0,
+        "commands": []
+      }
+    },
+    {
+      "id": "song_collection",
+      "enabled": false,
+      "title": "指定歌曲全部通关",
+      "repeat": "ONCE",
+      "condition": {
+        "trigger": "RESULT",
+        "songs": [
+          "two_breaths_f2nd",
+          "yubikiri_f2nd"
+        ],
+        "minDifficulty": "easy",
+        "cleared": true,
+        "minRank": "any",
+        "minScore": 0,
+        "minAchievement": 0,
+        "minCombo": 0,
+        "progressPercent": 0
+      },
+      "rewards": {
+        "items": [
+          {
+            "item": "minecraft:diamond",
+            "count": 5
+          }
+        ],
+        "experience": 200,
+        "commands": []
+      }
+    },
+    {
+      "id": "each_clear",
+      "enabled": false,
+      "title": "每次通关",
+      "repeat": "EVERY_RUN",
+      "condition": {
+        "trigger": "RESULT",
+        "songs": [
+          "*"
+        ],
+        "minDifficulty": "easy",
+        "cleared": true,
+        "minRank": "any",
+        "minScore": 0,
+        "minAchievement": 0,
+        "minCombo": 0,
+        "progressPercent": 0
+      },
+      "rewards": {
+        "items": [],
+        "experience": 10,
+        "commands": [
+          "tag @s add stevedance_clear"
+        ]
+      }
+    }
+  ]
+}
