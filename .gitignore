@@ -13,3 +13,7 @@ hs_err_pid*
 .env*
 **/AGENTS.md
 **/CURRENT.md
+
+release-resources/assets/stevedance/bundled-packs/*.zip
+
+third-party/ffmpeg/ffmpeg-7.1.2.tar.xz
